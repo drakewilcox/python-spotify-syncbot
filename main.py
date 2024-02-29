@@ -38,7 +38,7 @@ for transfer in TRANSFERS:
 
   if new_uris:
     batch_tracks(sp, to_id, new_uris)
-    new_description=f"Automated Archive of the {transfer["from_playlist_name"]} playlist. Last Sync: {formatted_date}"
+    new_description = f"Automated Archive of the {transfer['from_playlist_name']} playlist. Last Sync: {formatted_date}"
     sp.playlist_change_details(playlist_id=to_id, description=new_description)
 
     log_message = f"{formatted_date}: Synced {transfer['from_playlist_name']} to {transfer['to_playlist_name']}\n"
