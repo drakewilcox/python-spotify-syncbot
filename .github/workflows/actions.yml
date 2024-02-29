@@ -2,9 +2,7 @@ name: run main.py
 # Schedule updates at 02:00 on every Friday
 on:
   schedule:
-    - cron: '0 2 * * 5'
-
-  workflow_dispatch:
+    - cron: '0 2 * * *'
 
 jobs:
   build:
