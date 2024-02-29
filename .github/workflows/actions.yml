@@ -1,5 +1,5 @@
 name: run main.py
-# Schedule updates at 02:00 on every Friday
+# Schedule updates at 02:00am everyday
 on:
   schedule:
     - cron: '0 2 * * *'
