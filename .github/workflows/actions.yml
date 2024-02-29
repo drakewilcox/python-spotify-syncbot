@@ -10,7 +10,7 @@ jobs:
 
     steps:
       - name: checkout repo content
-      - uses: actions/checkout@v3
+        uses: actions/checkout@v3
 
       - name: Set up Python 3.10
         uses: actions/setup-python@v3
@@ -23,22 +23,23 @@ jobs:
           pip install -r requirements.txt
 
       - name: Sync Playlists
-        run: python main.py
         env:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
           REDIRECT_URI: ${{ secrets.REDIRECT_URI }}
           REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
+          SCOPES: ${{ secrets.SCOPES }}
+        run: python main.py
 
-      # - name: commit files
-      #   run: |
-      #     git config --local user.email "action@github.com"
-      #     git config --local user.name "GitHub Action"
-      #     git add -A
-      #     git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
+      - name: commit files
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
 
-      # - name: push changes
-      #   uses: ad-m/github-push-action@v0.6.0
-      #   with:
-      #     github_token: ${{ secrets.GITHUB_TOKEN }}
-      #     branch: main
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
