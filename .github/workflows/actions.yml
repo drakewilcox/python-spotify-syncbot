@@ -1,8 +1,9 @@
 name: run main.py
-# Schedule updates at 02:00am everyday
+# CURRENTLY SCHEDULED TO RUN EVERY 2 HOURS
+# ONLY UPDATES PLAYLISTS IF NEW SONGS ARE PRESENT
 on:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: ''0 */2 * * *''
 
   workflow_dispatch:
 

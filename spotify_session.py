@@ -69,19 +69,19 @@ class SpotifySession(spotipy.Spotify):
         # Concats descriptions for each daylist made in one day.
         new_description = f"{description + '| ' if description else ''}{formatted_time()}: {len(new_uris)} Songs from {from_name}"
       else:
-        new_description = f"Automated Archive of the {from_playlist["name"]} playlist. Last Sync: {formatted_date()}"
+        new_description = f"Automated Archive of the {from_playlist['name']} playlist. Last Sync: {formatted_date()}"
       # Prevents Description from being > 300 chars to avoid error  
       self.playlist_change_details(playlist_id=to_playlist["uri"], description=new_description[:300])
 
       log_message = (
         f"Transfer Performed \n"
-        f"\tFROM PLAYLIST NAME: {from_playlist["name"]} \n"
-        f"\tFROM PLAYLIST DESCRIPTION: {remove_a_tags(from_playlist["description"])} \n"
+        f"\tFROM PLAYLIST NAME: {from_playlist['name']} \n"
+        f"\tFROM PLAYLIST DESCRIPTION: {remove_a_tags(from_playlist['description'])} \n"
         f"\tTOTAL SONGS TRANSFERED: {len(new_uris)}\n"
         f"\tNEW ARCHIVE CREATED: {is_new_archive}\n"
-        f"\tTO PLAYLIST NAME: {to_playlist["name"]}\n"
-        f"\tTO PLAYLIST URL: {to_playlist["external_urls"]["spotify"]}\n"
-        + (f"\tFROM PLAYLIST URL: {from_playlist["external_urls"]["spotify"]}\n" if not is_daylist else "")
+        f"\tTO PLAYLIST NAME: {to_playlist['name']}\n"
+        f"\tTO PLAYLIST URL: {to_playlist['external_urls']['spotify']}\n"
+        + (f"\tFROM PLAYLIST URL: {from_playlist['external_urls']['spotify']}\n" if not is_daylist else "")
       ) 
       if self.logger: 
         self.logger.info(log_message)
