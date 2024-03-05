@@ -27,3 +27,8 @@ TRANSFERS = [
   },
 
 ]
+
+DAYLIST = {
+  "sync_on": True,
+  "link": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1?si=2f0d3c7e8c454599"
+}
