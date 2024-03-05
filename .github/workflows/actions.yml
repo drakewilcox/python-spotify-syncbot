@@ -3,7 +3,7 @@ name: run main.py
 # ONLY UPDATES PLAYLISTS IF NEW SONGS ARE PRESENT
 on:
   schedule:
-    - cron: ''0 */2 * * *''
+    - cron: '0 */2 * * *'
 
   workflow_dispatch:
 
