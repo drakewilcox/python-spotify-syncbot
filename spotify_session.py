@@ -1,7 +1,7 @@
 import spotipy 
 from spotipy.oauth2 import SpotifyOAuth 
 import html
-from utils import formatted_time, remove_a_tags, formatted_date
+from utils import formatted_time, remove_a_tags, formatted_date, formatted_previous_date
 from envs import *
 
 class SpotifySession(spotipy.Spotify):
@@ -53,14 +53,34 @@ class SpotifySession(spotipy.Spotify):
       if playlist['name'] == query:
         return playlist
     return None
+  
+  def prev_day_archive_uris(self): 
+    prev_day_archive_name = f"{formatted_previous_date()} DAYLIST ARCHIVE"
+    print(prev_day_archive_name)
+    prev_day_archive = self.search_playlists_by_name(query=prev_day_archive_name)
+
+    if prev_day_archive:
+      prev_day_uris = self.get_playlist_track_uris(playlist_id=prev_day_archive["uri"])
+      return prev_day_uris
+    else: 
+      return []
+
+    
 
   def transfer_songs_to_archive(self, from_playlist, to_playlist, is_new_archive=False, is_daylist=False):
-
     to_uris = self.get_playlist_track_uris(playlist_id=to_playlist["uri"])
     from_uris = self.get_playlist_track_uris(playlist_id=from_playlist["uri"])
-    description = html.unescape(to_playlist["description"])
-    new_uris = [uri for uri in from_uris if uri not in set(to_uris)]
-    from_name = from_playlist["name"].replace("daylist • ", "")
+    excluded_uris = set(to_uris) 
+
+    # Prevents a Daylist from being transferred to two Archive Days. 
+    if len(to_uris) <= 50:
+      prev_day_uris = self.prev_day_archive_uris()
+      excluded_uris = set(to_uris) | set(prev_day_uris)
+
+    new_uris = [uri for uri in from_uris if uri not in excluded_uris] # prevents duplicates
+
+    description = html.unescape(to_playlist["description"]) # removes dates converted by Spotify to html
+    from_name = from_playlist["name"].replace("daylist • ", "") 
 
     if new_uris: 
       self.add_tracks(playlist_id=to_playlist["uri"], track_uris=new_uris)

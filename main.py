@@ -1,7 +1,7 @@
 from transfers import TRANSFERS, DAYLIST
 from spotify_session import SpotifySession 
 from log_config import configure_logging
-from utils import formatted_date
+from utils import formatted_date, formatted_previous_date
 
 app_logger = configure_logging()
 sp = SpotifySession(logger=app_logger)
@@ -26,3 +26,7 @@ for transfer in TRANSFERS:
 
   sp.transfer_songs_to_archive(from_playlist=from_playlist, to_playlist=to_playlist)
 
+
+# TO DO: 
+
+# UPDATE TIMEZONE USED BY ACTIONS

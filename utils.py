@@ -1,12 +1,19 @@
-from datetime import datetime 
+from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo 
 import re
 
 def _get_current_datetime():
-  return datetime.now()
+  return datetime.now(ZoneInfo("America/Los_Angeles"))
 
 def formatted_date(): 
   current_date = _get_current_datetime()
   return current_date.strftime("%y/%m/%d")
+
+def formatted_previous_date():
+  current_date = _get_current_datetime()
+  prev = current_date - timedelta(days=1)
+  return prev.strftime("%y/%m/%d")
+
 
 def formatted_time(): 
   current_date = _get_current_datetime()
