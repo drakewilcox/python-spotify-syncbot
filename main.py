@@ -27,7 +27,7 @@ formatted_date = current_date.strftime("%m/%d/%Y")
 
 # TRANSFER LOGIC
 
-appLogger.info(f"Starting Playlist Sync for {len(TRANSFERS)} Playlists")
+# appLogger.info(f"Starting Playlist Sync for {len(TRANSFERS)} Playlists")
 
 for transfer in TRANSFERS: 
   to_id = transfer["to_playlist_link"]
@@ -35,6 +35,8 @@ for transfer in TRANSFERS:
   from_uris = get_playlist_track_uris(sp, from_id)
   to_uris = get_playlist_track_uris(sp, to_id)
   new_uris = [uri for uri in from_uris if uri not in set(to_uris)]
+
+
 
   if new_uris:
     batch_tracks(sp, to_id, new_uris)
