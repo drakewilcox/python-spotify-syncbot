@@ -63,3 +63,20 @@
 	TO PLAYLIST NAME: 24/03/06 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5dPT0EM6rkCtmZe6rhOGB5
 
+2024-03-06 16:17:23,451 - INFO - Transfer Performed 
+	FROM PLAYLIST NAME: daylist • alternative post-punk morning 
+	FROM PLAYLIST DESCRIPTION: You listened to international and space rock in the morning. Here's some: alternative, fresh, shoegaze, jangle, psychedelic, and international 
+	TOTAL SONGS TRANSFERED: 37
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/03/06 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5dPT0EM6rkCtmZe6rhOGB5
+
+2024-03-06 16:17:37,404 - INFO - Transfer Performed 
+	FROM PLAYLIST NAME: 2024 - Favorite Tracks (So Far)  
+	FROM PLAYLIST DESCRIPTION:  
+	TOTAL SONGS TRANSFERED: 2
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Compact Cassette Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
+
