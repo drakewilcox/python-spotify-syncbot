@@ -2,7 +2,6 @@ import os
 
 import dotenv
 
-
 dotenv.load_dotenv()
 
 CLIENT_ID = os.getenv("CLIENT_ID")
