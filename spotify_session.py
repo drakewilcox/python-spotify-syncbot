@@ -88,7 +88,7 @@ class SpotifySession(spotipy.Spotify):
       else:
         new_description = f"Automated Archive of the {from_playlist['name']} playlist. Last Sync: {formatted_date()}"
       # Prevents Description from being > 300 chars to avoid error  
-      limit_desc = f"{new_description[:297] + "..." if len(new_description) > 300 else ""}"
+      limit_desc = f"{new_description[:297] + '...' if len(new_description) > 300 else ''}"
       final_desc = description if len(description) == 300 else limit_desc
 
       self.playlist_change_details(playlist_id=to_playlist["uri"], description=final_desc)
