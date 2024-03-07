@@ -151,3 +151,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/6c6Ra1iI1JjhADV2gnT7p6
 
+2024-03-07 22:13:05,622 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 02:13PM 
+	FROM PLAYLIST NAME: daylist • light winter thursday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to bouncy and brazilian funk on Thursday afternoons. Here's some: light, inspirational, peaceful, fresh, yearning, and storm 
+	TOTAL SONGS TRANSFERED: 49
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/03/07 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0YwT44YVOEngKLV6Y0RWBs
+
