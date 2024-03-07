@@ -1,7 +1,7 @@
 import spotipy 
 from spotipy.oauth2 import SpotifyOAuth 
 import html
-from utils import formatted_time, remove_a_tags, formatted_date, formatted_previous_date
+from utils import formatted_time, remove_a_tags, formatted_date, formatted_previous_date, formatted_24_time
 from envs import *
 
 class SpotifySession(spotipy.Spotify):
@@ -65,8 +65,6 @@ class SpotifySession(spotipy.Spotify):
     else: 
       return []
 
-    
-
   def transfer_songs_to_archive(self, from_playlist, to_playlist, is_new_archive=False, is_daylist=False):
     to_uris = self.get_playlist_track_uris(playlist_id=to_playlist["uri"])
     from_uris = self.get_playlist_track_uris(playlist_id=from_playlist["uri"])
@@ -84,17 +82,20 @@ class SpotifySession(spotipy.Spotify):
 
     if new_uris: 
       self.add_tracks(playlist_id=to_playlist["uri"], track_uris=new_uris)
-
       if is_daylist:
         # Concats descriptions for each daylist made in one day.
-        new_description = f"{description + '| ' if description else ''}{formatted_time()}: {len(new_uris)} Songs from {from_name}"
+        new_description = f"{description + ' | ' if description else ''}{formatted_24_time()} - {len(new_uris)} Songs - {from_name}"
       else:
         new_description = f"Automated Archive of the {from_playlist['name']} playlist. Last Sync: {formatted_date()}"
       # Prevents Description from being > 300 chars to avoid error  
-      self.playlist_change_details(playlist_id=to_playlist["uri"], description=new_description[:300])
+      limit_desc = f"{new_description[:297] + "..." if len(new_description) > 300 else ""}"
+      final_desc = description if len(description) == 300 else limit_desc
+
+      self.playlist_change_details(playlist_id=to_playlist["uri"], description=final_desc)
 
       log_message = (
-        f"Transfer Performed \n"
+        f"{'Daylist ' if is_daylist else ''}Transfer Performed \n"
+        f"\tLOCAL TIME: {formatted_date()} \n"
         f"\tFROM PLAYLIST NAME: {from_playlist['name']} \n"
         f"\tFROM PLAYLIST DESCRIPTION: {remove_a_tags(from_playlist['description'])} \n"
         f"\tTOTAL SONGS TRANSFERED: {len(new_uris)}\n"

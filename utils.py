@@ -18,6 +18,10 @@ def formatted_previous_date():
 def formatted_time(): 
   current_date = _get_current_datetime()
   return current_date.strftime("%I:%M%p")
+
+def formatted_24_time(): 
+  current_date = _get_current_datetime()
+  return current_date.strftime("%H:%M")
   
 def remove_a_tags(text):
   pattern = r'<a href="[^"]*">(.*?)</a>'
