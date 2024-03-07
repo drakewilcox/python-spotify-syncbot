@@ -56,7 +56,6 @@ class SpotifySession(spotipy.Spotify):
   
   def prev_day_archive_uris(self): 
     prev_day_archive_name = f"{formatted_previous_date()} DAYLIST ARCHIVE"
-    print(prev_day_archive_name)
     prev_day_archive = self.search_playlists_by_name(query=prev_day_archive_name)
 
     if prev_day_archive:
@@ -88,14 +87,14 @@ class SpotifySession(spotipy.Spotify):
       else:
         new_description = f"Automated Archive of the {from_playlist['name']} playlist. Last Sync: {formatted_date()}"
       # Prevents Description from being > 300 chars to avoid error  
-      limit_desc = f"{new_description[:297] + '...' if len(new_description) > 300 else ''}"
+      limit_desc = f"{new_description[:297]}..." if len(new_description) > 300 else new_description
       final_desc = description if len(description) == 300 else limit_desc
 
       self.playlist_change_details(playlist_id=to_playlist["uri"], description=final_desc)
 
       log_message = (
         f"{'Daylist ' if is_daylist else ''}Transfer Performed \n"
-        f"\tLOCAL TIME: {formatted_date()} \n"
+        f"\tLOCAL TIME: {formatted_time()} \n"
         f"\tFROM PLAYLIST NAME: {from_playlist['name']} \n"
         f"\tFROM PLAYLIST DESCRIPTION: {remove_a_tags(from_playlist['description'])} \n"
         f"\tTOTAL SONGS TRANSFERED: {len(new_uris)}\n"
