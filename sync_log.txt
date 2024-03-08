@@ -225,3 +225,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
 
+2024-03-08 18:18:02,402 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 10:18AM 
+	FROM PLAYLIST NAME: daylist • slowcore shoegaze friday morning 
+	FROM PLAYLIST DESCRIPTION: You listened to static and space rock on Friday mornings. Here's some: shoegaze, noise, melancholy, comforting, gloomy, and angst 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/03/08 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6oEL8xdb4kcBIEumaGeWeP
+
