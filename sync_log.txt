@@ -234,3 +234,12 @@
 	TO PLAYLIST NAME: 24/03/08 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6oEL8xdb4kcBIEumaGeWeP
 
+2024-03-08 20:12:53,062 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 12:12PM 
+	FROM PLAYLIST NAME: daylist • sadcore noise pop friday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to noise and lo-fi on Friday afternoons. Here's some: sadcore, noise pop, post-rock, distortion, shoegaze, and 90s indie 
+	TOTAL SONGS TRANSFERED: 41
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/03/08 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6oEL8xdb4kcBIEumaGeWeP
+
