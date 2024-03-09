@@ -297,3 +297,12 @@
 	TO PLAYLIST NAME: 24/03/09 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3nNSG1aX90oi5OXai5BmX5
 
+2024-03-09 18:16:03,613 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 10:16AM 
+	FROM PLAYLIST NAME: daylist • acoustic folksy afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to fresh and psychedelic in the afternoon. Here's some: acoustic, folksy, songwriter, obscure, 60s-70s, and vocalist 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/03/09 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3nNSG1aX90oi5OXai5BmX5
+
