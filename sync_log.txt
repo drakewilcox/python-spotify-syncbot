@@ -516,3 +516,12 @@
 	TO PLAYLIST NAME: 24/03/11 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/4lhJ9J3ZYDu0PDxYn96etj
 
+2024-03-12 04:19:20,793 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:19PM 
+	FROM PLAYLIST NAME: daylist • strange krautrock monday late night 
+	FROM PLAYLIST DESCRIPTION: You listened to krautrock and hypnosis on Monday late nights. Here's some: strange, krautrock, psychedelic, far out, jangle, and surfing 
+	TOTAL SONGS TRANSFERED: 32
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/03/11 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/4lhJ9J3ZYDu0PDxYn96etj
+
