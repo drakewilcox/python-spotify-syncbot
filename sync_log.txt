@@ -654,3 +654,22 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
 
+2024-03-13 18:17:36,371 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:17AM 
+	FROM PLAYLIST NAME: daylist • winter indie morning 
+	FROM PLAYLIST DESCRIPTION: You listened to western and outlaw country in the morning. Here's some: alternative, fresh, live music, exciting, independent, and nocturnal 
+	TOTAL SONGS TRANSFERED: 25
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/03/13 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6B0Znrc182jGwY7HVfp4c9
+
+2024-03-13 18:17:52,183 - INFO - Transfer Performed 
+	LOCAL TIME: 11:17AM 
+	FROM PLAYLIST NAME: 2024 - Favorite Tracks (So Far)  
+	FROM PLAYLIST DESCRIPTION:  
+	TOTAL SONGS TRANSFERED: 2
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Compact Cassette Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
+
