@@ -956,3 +956,12 @@
 	TO PLAYLIST NAME: 24/03/16 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/20tNTD3oSh8FUD5XqN4L9N
 
+2024-03-16 16:15:30,339 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:15AM 
+	FROM PLAYLIST NAME: daylist • old country western swing saturday morning 
+	FROM PLAYLIST DESCRIPTION: You listened to western and old country on Saturday mornings. Here's some: old country, classic country, western swing, vintage country, outlaw country, and old school country 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/03/16 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/20tNTD3oSh8FUD5XqN4L9N
+
