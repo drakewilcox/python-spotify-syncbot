@@ -974,3 +974,22 @@
 	TO PLAYLIST NAME: 24/03/16 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/20tNTD3oSh8FUD5XqN4L9N
 
+2024-03-16 22:13:24,638 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:13PM 
+	FROM PLAYLIST NAME: daylist • harmonica poetry saturday evening 
+	FROM PLAYLIST DESCRIPTION: You listened to songwriter and folk rock on Saturday evenings. Here's some: harmonica, poetry, tambourine, vocalist, classic folk, and acoustic 
+	TOTAL SONGS TRANSFERED: 17
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/03/16 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/20tNTD3oSh8FUD5XqN4L9N
+
+2024-03-16 22:13:43,190 - INFO - Transfer Performed 
+	LOCAL TIME: 03:13PM 
+	FROM PLAYLIST NAME: 2024 - Favorite Tracks (So Far)  
+	FROM PLAYLIST DESCRIPTION:  
+	TOTAL SONGS TRANSFERED: 1
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Compact Cassette Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
+
