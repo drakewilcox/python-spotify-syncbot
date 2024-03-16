@@ -965,3 +965,12 @@
 	TO PLAYLIST NAME: 24/03/16 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/20tNTD3oSh8FUD5XqN4L9N
 
+2024-03-16 20:13:43,360 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:13PM 
+	FROM PLAYLIST NAME: daylist • harmonica tambourine saturday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to songwriter and folksy on Saturday afternoons. Here's some: harmonica, tambourine, classic folk, songwriter, acoustic, and vocalist 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/03/16 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/20tNTD3oSh8FUD5XqN4L9N
+
