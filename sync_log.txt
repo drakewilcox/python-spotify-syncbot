@@ -1047,3 +1047,12 @@
 	TO PLAYLIST NAME: 24/03/17 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3qaSqWnM7UkoE2Dq95iSzs
 
+2024-03-17 18:15:57,604 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:15AM 
+	FROM PLAYLIST NAME: daylist • delta blues slide sunday morning 
+	FROM PLAYLIST DESCRIPTION: You listened to country blues and old blues on Sunday mornings. Here's some: old blues, blues guitar, country blues, roots, classic blues, and ragtime 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/03/17 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3qaSqWnM7UkoE2Dq95iSzs
+
