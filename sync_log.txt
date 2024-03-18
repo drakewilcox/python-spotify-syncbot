@@ -1148,3 +1148,12 @@
 	TO PLAYLIST NAME: 24/03/18 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/580ccUdnoOLprT7r2MoDE6
 
+2024-03-18 22:13:30,081 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:13PM 
+	FROM PLAYLIST NAME: daylist • modern folk mountain monday evening 
+	FROM PLAYLIST DESCRIPTION: You listened to folksy and alternative country on Monday evenings. Here's some: modern folk, mountain, twang, alternative country, americana, and indie folk 
+	TOTAL SONGS TRANSFERED: 43
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/03/18 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/580ccUdnoOLprT7r2MoDE6
+
