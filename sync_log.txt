@@ -1157,3 +1157,12 @@
 	TO PLAYLIST NAME: 24/03/18 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/580ccUdnoOLprT7r2MoDE6
 
+2024-03-19 02:19:47,988 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:19PM 
+	FROM PLAYLIST NAME: daylist • trippy hypnagogic pop monday night 
+	FROM PLAYLIST DESCRIPTION: You listened to hipster and psychedelic on Monday nights. Here's some: hypnagogic pop, psychedelic, hipster, chillwave, surfing, and 21st century 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/03/18 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/580ccUdnoOLprT7r2MoDE6
+
