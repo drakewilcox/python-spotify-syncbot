@@ -1229,3 +1229,12 @@
 	TO PLAYLIST NAME: 24/03/19 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0bHnFcKPVphSAReUsFknjw
 
+2024-03-20 01:00:58,910 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 06:00PM 
+	FROM PLAYLIST NAME: daylist • shoegaze diy tuesday night 
+	FROM PLAYLIST DESCRIPTION: You listened to no wave and grunge on Tuesday nights. Here's some: shoegaze, diy, alternative, nu-gaze, cover, and jangle 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/03/19 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0bHnFcKPVphSAReUsFknjw
+
