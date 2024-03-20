@@ -1302,3 +1302,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
 
+2024-03-20 16:18:54,857 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:18AM 
+	FROM PLAYLIST NAME: daylist • pedal steel cowboy afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to western and cowboy in the afternoon. Here's some: pedal steel, cowboy, alternative country, modern country, twang, and mountain 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/03/20 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5pnXeTIkZ5abYfAQI5AwaO
+
