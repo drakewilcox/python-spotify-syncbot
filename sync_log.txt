@@ -1775,3 +1775,12 @@
 	TO PLAYLIST NAME: 24/03/25 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3UwSh5b5SzxYQOsLcIZQ9y
 
+2024-03-26 08:17:36,464 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:17AM 
+	FROM PLAYLIST NAME: daylist • magical castle monday 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic and garage on Mondays. Here's some: 21st century, analog, modern, garage, psychedelic, and krautrock 
+	TOTAL SONGS TRANSFERED: 41
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/03/26 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/4Jb7VGabMx5jzR8Bj1DSLu
+
