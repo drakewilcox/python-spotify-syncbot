@@ -2105,3 +2105,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
 
+2024-03-29 18:17:32,157 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:17AM 
+	FROM PLAYLIST NAME: daylist • chamber pop indie folk friday morning 
+	FROM PLAYLIST DESCRIPTION: You listened to yearning and soul soothing on Friday mornings. Here's some: chamber pop, indie folk, mysterious, acoustic, pining, and singer-songwriter 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/03/29 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5b7iIXOmG8osy3lPHyxa1I
+
