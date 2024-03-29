@@ -2050,3 +2050,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
 
+2024-03-29 08:17:30,074 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:17AM 
+	FROM PLAYLIST NAME: daylist • moody home friday 
+	FROM PLAYLIST DESCRIPTION: You listened to smooth and dreamy on Fridays. Here's some: home, diy, peaceful, angst, quiet, and dream 
+	TOTAL SONGS TRANSFERED: 44
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/03/29 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5b7iIXOmG8osy3lPHyxa1I
+
