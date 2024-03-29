@@ -2068,3 +2068,12 @@
 	TO PLAYLIST NAME: 24/03/29 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5b7iIXOmG8osy3lPHyxa1I
 
+2024-03-29 12:26:49,124 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 05:26AM 
+	FROM PLAYLIST NAME: daylist • sad home friday 
+	FROM PLAYLIST DESCRIPTION: You listened to dreamy and smooth on Fridays. Here's some: home, quiet, songwriting, angst, melancholy, and autumn 
+	TOTAL SONGS TRANSFERED: 8
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/03/29 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5b7iIXOmG8osy3lPHyxa1I
+
