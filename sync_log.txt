@@ -2150,3 +2150,12 @@
 	TO PLAYLIST NAME: 24/03/29 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5b7iIXOmG8osy3lPHyxa1I
 
+2024-03-30 08:18:19,052 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:18AM 
+	FROM PLAYLIST NAME: daylist • alone 90s friday 
+	FROM PLAYLIST DESCRIPTION: You listened to garage and psychedelic on Fridays. Here's some: post-rock, alone, lo-fi, indie rock, sadcore, and college 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/03/30 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/4LczaEgls9FaScdGgyYqVH
+
