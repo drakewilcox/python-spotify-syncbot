@@ -2349,3 +2349,12 @@
 	TO PLAYLIST NAME: 24/04/01 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2GVCmhZOsINGsyOe9ZzdvI
 
+2024-04-01 22:14:05,625 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:14PM 
+	FROM PLAYLIST NAME: daylist • sleeping in viscous jazz monday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to viscous jazz and coastal cowgirl on Monday afternoons. Here's some: sleeping in, viscous jazz, soft indie, napping, cuddly, and dreamy 
+	TOTAL SONGS TRANSFERED: 12
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/01 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2GVCmhZOsINGsyOe9ZzdvI
+
