@@ -2740,3 +2740,12 @@
 	TO PLAYLIST NAME: 24/04/06 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0XTHF5soibaDPOgk9W48wS
 
+2024-04-06 14:11:50,432 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:11AM 
+	FROM PLAYLIST NAME: daylist • warm birds morning 
+	FROM PLAYLIST DESCRIPTION: You listened to indie christian and indie worship in the morning. Here's some: hang drum, birds, nature, cleansing, cuddly, and soppy 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/06 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0XTHF5soibaDPOgk9W48wS
+
