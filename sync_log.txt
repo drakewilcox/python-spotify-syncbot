@@ -2749,3 +2749,12 @@
 	TO PLAYLIST NAME: 24/04/06 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0XTHF5soibaDPOgk9W48wS
 
+2024-04-06 18:16:56,460 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:16AM 
+	FROM PLAYLIST NAME: daylist • dark country wild west saturday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to outlaw country and western on Saturday afternoons. Here's some: dark country, wild west, twang, cowboy, outlaw country, and bluesy 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/06 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0XTHF5soibaDPOgk9W48wS
+
