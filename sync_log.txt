@@ -2803,3 +2803,12 @@
 	TO PLAYLIST NAME: 24/04/06 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0XTHF5soibaDPOgk9W48wS
 
+2024-04-07 08:18:50,103 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:18AM 
+	FROM PLAYLIST NAME: daylist • trippy rock hypnosis sunday 
+	FROM PLAYLIST DESCRIPTION: You listened to indie chill and dreamy on Sundays. Here's some: trippy rock, hypnosis, sunshine, psychedelic, indie chill, and australian indie 
+	TOTAL SONGS TRANSFERED: 36
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/04/07 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6mO0dm73BsVxiQeQXVRboR
+
