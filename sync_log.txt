@@ -2839,3 +2839,12 @@
 	TO PLAYLIST NAME: 24/04/07 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6mO0dm73BsVxiQeQXVRboR
 
+2024-04-07 20:13:45,792 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:13PM 
+	FROM PLAYLIST NAME: daylist • soft viscous jazz sunday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to mellow and dreamy on Sunday afternoons. Here's some: viscous jazz, sleeping in, dreamy, mellow, hipster, and psychedelic 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/07 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6mO0dm73BsVxiQeQXVRboR
+
