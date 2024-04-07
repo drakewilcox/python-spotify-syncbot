@@ -2848,3 +2848,12 @@
 	TO PLAYLIST NAME: 24/04/07 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6mO0dm73BsVxiQeQXVRboR
 
+2024-04-07 22:12:34,739 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:12PM 
+	FROM PLAYLIST NAME: daylist • chill psychedelic pop sunday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to massage and mellow on Sunday afternoons. Here's some: psychedelic pop, waves, reverb, dreamy, hazy, and trippy 
+	TOTAL SONGS TRANSFERED: 43
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/07 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6mO0dm73BsVxiQeQXVRboR
+
