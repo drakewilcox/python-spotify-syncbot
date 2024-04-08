@@ -2875,3 +2875,12 @@
 	TO PLAYLIST NAME: 24/04/07 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6mO0dm73BsVxiQeQXVRboR
 
+2024-04-08 10:17:56,215 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:17AM 
+	FROM PLAYLIST NAME: daylist • happy indie art pop monday 
+	FROM PLAYLIST DESCRIPTION: You listened to indie christian and psychedelic on Mondays. Here's some: art pop, hypnosis, indie pop rock, happy indie, neo soul, and 2020s 
+	TOTAL SONGS TRANSFERED: 20
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/08 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/7wwB0wiLAuRM1oDwJ9WAiw
+
