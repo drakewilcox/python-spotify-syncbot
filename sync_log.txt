@@ -3241,3 +3241,22 @@
 	TO PLAYLIST NAME: 24/04/12 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0CZEFQ8uCQQG7kxDdaK90g
 
+2024-04-12 16:17:37,282 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:17AM 
+	FROM PLAYLIST NAME: daylist • modern psychedelic trippy rock friday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic indie and dream pop on Friday afternoons. Here's some: modern psychedelic, psychedelic pop, trippy rock, psychedelic indie, dreamy, and hazy 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/12 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0CZEFQ8uCQQG7kxDdaK90g
+
+2024-04-12 16:17:45,161 - INFO - Transfer Performed 
+	LOCAL TIME: 09:17AM 
+	FROM PLAYLIST NAME: POLLEN 
+	FROM PLAYLIST DESCRIPTION: Genre-less. Quality first always. Cover: Caribou 
+	TOTAL SONGS TRANSFERED: 10
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Pollen Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
+
