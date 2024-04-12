@@ -3260,3 +3260,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
 
+2024-04-12 20:14:20,870 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:14PM 
+	FROM PLAYLIST NAME: daylist • gentle autumn friday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to soul crushing and soul soothing on Friday afternoons. Here's some: autumn, twang, indie folk, yearning, journaling, and quiet 
+	TOTAL SONGS TRANSFERED: 45
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/12 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0CZEFQ8uCQQG7kxDdaK90g
+
