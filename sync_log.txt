@@ -3305,3 +3305,22 @@
 	TO PLAYLIST NAME: 24/04/13 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2iZzDE7NhzrAehrvhzTnHG
 
+2024-04-13 12:21:12,170 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 05:21AM 
+	FROM PLAYLIST NAME: daylist • post-rock teen angst saturday 
+	FROM PLAYLIST DESCRIPTION: You listened to garage and psychedelic on Saturdays. Here's some: post-rock, 90s indie, bitter, chin-stroking, indie rock, and strange 
+	TOTAL SONGS TRANSFERED: 21
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/13 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2iZzDE7NhzrAehrvhzTnHG
+
+2024-04-13 12:21:19,310 - INFO - Transfer Performed 
+	LOCAL TIME: 05:21AM 
+	FROM PLAYLIST NAME: POLLEN 
+	FROM PLAYLIST DESCRIPTION: Genre-less. Quality first always. Cover: Caribou 
+	TOTAL SONGS TRANSFERED: 1
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Pollen Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
+
