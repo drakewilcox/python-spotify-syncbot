@@ -3324,3 +3324,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
 
+2024-04-13 16:17:47,450 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:17AM 
+	FROM PLAYLIST NAME: daylist • dark country bluesy saturday morning 
+	FROM PLAYLIST DESCRIPTION: You listened to cowboy and western on Saturday mornings. Here's some: dark country, bluesy, rockabilly, psychobilly, wild west, and twang 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/13 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2iZzDE7NhzrAehrvhzTnHG
+
