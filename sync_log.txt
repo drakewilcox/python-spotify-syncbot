@@ -3296,3 +3296,12 @@
 	TO PLAYLIST NAME: 24/04/12 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0CZEFQ8uCQQG7kxDdaK90g
 
+2024-04-13 08:13:51,422 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:13AM 
+	FROM PLAYLIST NAME: daylist • post-punk revival 90s indie friday 
+	FROM PLAYLIST DESCRIPTION: You listened to garage and surfing on Fridays. Here's some: post-punk revival, 90s indie, mathy, angst, indie rock, and static 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/04/13 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2iZzDE7NhzrAehrvhzTnHG
+
