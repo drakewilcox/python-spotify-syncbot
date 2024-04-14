@@ -3396,3 +3396,12 @@
 	TO PLAYLIST NAME: 24/04/14 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/29HkguZRyc4X145GXeyHGw
 
+2024-04-14 22:31:01,806 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:31PM 
+	FROM PLAYLIST NAME: daylist • laid back lounging sunday evening 
+	FROM PLAYLIST DESCRIPTION: You listened to instrumental and mellow on Sunday evenings. Here's some: laid back, lounging, psychedelic, instrumental, waves, and dreamy 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/14 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/29HkguZRyc4X145GXeyHGw
+
