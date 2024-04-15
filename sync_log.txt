@@ -3470,3 +3470,22 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
 
+2024-04-15 20:14:44,160 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:14PM 
+	FROM PLAYLIST NAME: daylist • warm soft monday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to modern folk and mountain on Monday afternoons. Here's some: warm, soft, acoustic, magical, delicate, and mountain 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/15 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5kC5OTYS0SddY14AXKKFDw
+
+2024-04-15 20:15:03,906 - INFO - Transfer Performed 
+	LOCAL TIME: 01:15PM 
+	FROM PLAYLIST NAME: 2024 - Favorite Tracks (So Far)  
+	FROM PLAYLIST DESCRIPTION:  
+	TOTAL SONGS TRANSFERED: 1
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Compact Cassette Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
+
