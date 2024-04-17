@@ -3645,3 +3645,12 @@
 	TO PLAYLIST NAME: 24/04/17 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3CBgI5Qwa5TdUw4dsE48jq
 
+2024-04-17 12:27:07,501 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 05:27AM 
+	FROM PLAYLIST NAME: daylist • 00s indie 21st century wednesday 
+	FROM PLAYLIST DESCRIPTION: You listened to downbeat and ambient on Wednesdays. Here's some: 21st century, canon, mid 2000s, indieheads, 90s indie, and alternative 
+	TOTAL SONGS TRANSFERED: 5
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/17 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3CBgI5Qwa5TdUw4dsE48jq
+
