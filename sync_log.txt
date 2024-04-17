@@ -3654,3 +3654,12 @@
 	TO PLAYLIST NAME: 24/04/17 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3CBgI5Qwa5TdUw4dsE48jq
 
+2024-04-17 14:13:58,654 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:13AM 
+	FROM PLAYLIST NAME: daylist • intimate ethereal morning 
+	FROM PLAYLIST DESCRIPTION: You listened to art deco and femme fatale in the morning. Here's some: intimate, witchy, cinnamon, chai latte, dream, and yearning 
+	TOTAL SONGS TRANSFERED: 22
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/17 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3CBgI5Qwa5TdUw4dsE48jq
+
