@@ -3663,3 +3663,22 @@
 	TO PLAYLIST NAME: 24/04/17 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3CBgI5Qwa5TdUw4dsE48jq
 
+2024-04-17 16:19:40,627 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:19AM 
+	FROM PLAYLIST NAME: daylist • festival 2020s morning 
+	FROM PLAYLIST DESCRIPTION: You listened to outlaw country and western in the morning. Here's some: festival, 2020s, crank wave, alternative, fresh, and exciting 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/17 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3CBgI5Qwa5TdUw4dsE48jq
+
+2024-04-17 16:19:59,713 - INFO - Transfer Performed 
+	LOCAL TIME: 09:19AM 
+	FROM PLAYLIST NAME: 2024 - Favorite Tracks (So Far)  
+	FROM PLAYLIST DESCRIPTION:  
+	TOTAL SONGS TRANSFERED: 1
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Compact Cassette Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
+
