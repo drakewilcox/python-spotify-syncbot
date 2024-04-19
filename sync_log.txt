@@ -3847,3 +3847,12 @@
 	TO PLAYLIST NAME: 24/04/19 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2lS2OaueZ71WsdyEqWapwC
 
+2024-04-19 14:13:03,611 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:13AM 
+	FROM PLAYLIST NAME: daylist • soft ethereal early morning 
+	FROM PLAYLIST DESCRIPTION: You listened to femme fatale and mysterious in the early morning. Here's some: witchy, dream, soft, intimate, warm, and mysterious 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/19 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2lS2OaueZ71WsdyEqWapwC
+
