@@ -3801,3 +3801,13 @@
 	TO PLAYLIST NAME: 24/04/18 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/08GlZiURSPhSj5PIGkHAZS
 
+2024-04-19 04:17:07,912 - INFO - Transfer Performed 
+	LOCAL TIME: 09:17PM 
+	FROM PLAYLIST NAME: POLLEN 
+	FROM PLAYLIST DESCRIPTION: Genre-less. Quality first always. Cover: UCHE YARA 
+	TOTAL SONGS TRANSFERED: 8
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Pollen Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
+
