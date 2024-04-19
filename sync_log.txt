@@ -3865,3 +3865,12 @@
 	TO PLAYLIST NAME: 24/04/19 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2lS2OaueZ71WsdyEqWapwC
 
+2024-04-19 22:13:50,348 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:13PM 
+	FROM PLAYLIST NAME: daylist • slowcore indie friday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to shoegaze and chin-stroking on Friday afternoons. Here's some: shoegaze, dream pop, alternative rock, melancholy, alone, and midwest emo 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/19 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2lS2OaueZ71WsdyEqWapwC
+
