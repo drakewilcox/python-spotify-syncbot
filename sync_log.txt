@@ -3874,3 +3874,12 @@
 	TO PLAYLIST NAME: 24/04/19 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2lS2OaueZ71WsdyEqWapwC
 
+2024-04-20 02:21:17,384 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:21PM 
+	FROM PLAYLIST NAME: daylist • sad slowcore friday night 
+	FROM PLAYLIST DESCRIPTION: You listened to shoegaze and gloomy on Friday nights. Here's some: shoegaze, lo-fi, hopeful, post-rock, dream, and drained 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/19 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2lS2OaueZ71WsdyEqWapwC
+
