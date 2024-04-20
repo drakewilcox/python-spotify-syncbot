@@ -3901,3 +3901,12 @@
 	TO PLAYLIST NAME: 24/04/19 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2lS2OaueZ71WsdyEqWapwC
 
+2024-04-20 08:16:19,254 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:16AM 
+	FROM PLAYLIST NAME: daylist • post-punk indie saturday 
+	FROM PLAYLIST DESCRIPTION: You listened to garage and surfing on Saturdays. Here's some: alternative rock, crank wave, 2020s, jangle, dream pop, and shoegaze 
+	TOTAL SONGS TRANSFERED: 49
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/04/20 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/4mE6PSR5rSbFXhQqQToy7O
+
