@@ -3919,3 +3919,12 @@
 	TO PLAYLIST NAME: 24/04/20 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/4mE6PSR5rSbFXhQqQToy7O
 
+2024-04-20 12:24:59,496 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 05:24AM 
+	FROM PLAYLIST NAME: daylist • post-punk alternative friday 
+	FROM PLAYLIST DESCRIPTION: You listened to garage and obscure on Fridays. Here's some: alternative, crank wave, pub, jangle, 2020s, and exciting 
+	TOTAL SONGS TRANSFERED: 2
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/20 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/4mE6PSR5rSbFXhQqQToy7O
+
