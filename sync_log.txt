@@ -3973,3 +3973,12 @@
 	TO PLAYLIST NAME: 24/04/20 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/4mE6PSR5rSbFXhQqQToy7O
 
+2024-04-21 06:19:06,519 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:19PM 
+	FROM PLAYLIST NAME: daylist • new romantic strange late night 
+	FROM PLAYLIST DESCRIPTION: You listened to masterpiece and west coast rap in the late night. Here's some: strange, obscure, new romantic, new wave, art rock, and jangle 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/20 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/4mE6PSR5rSbFXhQqQToy7O
+
