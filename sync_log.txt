@@ -4009,3 +4009,12 @@
 	TO PLAYLIST NAME: 24/04/21 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/07VnwKD999ZlWLRPVvTS9i
 
+2024-04-21 14:12:38,807 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:12AM 
+	FROM PLAYLIST NAME: daylist • ethereal femme fatale morning 
+	FROM PLAYLIST DESCRIPTION: You listened to femme fatale and mysterious in the morning. Here's some: femme fatale, mysterious, art deco, cinnamon, witchy, and intimate 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/21 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/07VnwKD999ZlWLRPVvTS9i
+
