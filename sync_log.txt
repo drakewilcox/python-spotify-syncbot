@@ -4036,3 +4036,12 @@
 	TO PLAYLIST NAME: 24/04/21 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/07VnwKD999ZlWLRPVvTS9i
 
+2024-04-21 22:13:35,919 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:13PM 
+	FROM PLAYLIST NAME: daylist • indie chill floaty sunday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to mellow and psychedelic on Sunday afternoons. Here's some: floaty, psychedelic, hazy, indie chill, dreamy, and chillwave 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/21 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/07VnwKD999ZlWLRPVvTS9i
+
