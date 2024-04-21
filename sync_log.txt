@@ -4027,3 +4027,12 @@
 	TO PLAYLIST NAME: 24/04/21 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/07VnwKD999ZlWLRPVvTS9i
 
+2024-04-21 18:18:20,151 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:18AM 
+	FROM PLAYLIST NAME: daylist • american folk bluesy sunday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to folk rock on Sunday afternoons. Here's some: american folk, bluesy, old-time, banjo, fingerstyle, and traditional 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/21 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/07VnwKD999ZlWLRPVvTS9i
+
