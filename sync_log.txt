@@ -4018,3 +4018,12 @@
 	TO PLAYLIST NAME: 24/04/21 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/07VnwKD999ZlWLRPVvTS9i
 
+2024-04-21 16:17:50,325 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:17AM 
+	FROM PLAYLIST NAME: daylist • ethereal autumn sunday morning 
+	FROM PLAYLIST DESCRIPTION: You listened to femme fatale and art deco on Sunday mornings. Here's some: autumn, ambient, experimental, art pop, dream, and 2020s 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/21 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/07VnwKD999ZlWLRPVvTS9i
+
