@@ -4054,3 +4054,12 @@
 	TO PLAYLIST NAME: 24/04/21 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/07VnwKD999ZlWLRPVvTS9i
 
+2024-04-22 02:25:12,210 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:25PM 
+	FROM PLAYLIST NAME: daylist • soulful lounging sunday evening 
+	FROM PLAYLIST DESCRIPTION: You listened to bass guitar and dinner on Sunday evenings. Here's some: lounging, lowrider, smooth, velvety, souldies, and slow 
+	TOTAL SONGS TRANSFERED: 34
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/21 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/07VnwKD999ZlWLRPVvTS9i
+
