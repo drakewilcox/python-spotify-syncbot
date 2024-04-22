@@ -4138,3 +4138,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
 
+2024-04-22 22:15:14,762 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:15PM 
+	FROM PLAYLIST NAME: daylist • warm campfire monday evening 
+	FROM PLAYLIST DESCRIPTION: You listened to folk rock and laurel canyon on Monday evenings. Here's some: campfire, warm, sentimental, folksy, americana, and cozy 
+	TOTAL SONGS TRANSFERED: 39
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/22 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/68Zv5zZvO9XwwDF44ZCJZg
+
