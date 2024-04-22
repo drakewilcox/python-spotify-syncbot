@@ -4072,3 +4072,12 @@
 	TO PLAYLIST NAME: 24/04/21 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/07VnwKD999ZlWLRPVvTS9i
 
+2024-04-22 08:19:51,065 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:19AM 
+	FROM PLAYLIST NAME: daylist • warm indie chill monday 
+	FROM PLAYLIST DESCRIPTION: You listened to indie christian and spiritual on Mondays. Here's some: warm, indie chill, dreamy, sleeping in, easygoing, and soft indie 
+	TOTAL SONGS TRANSFERED: 34
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/04/22 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/68Zv5zZvO9XwwDF44ZCJZg
+
