@@ -4174,3 +4174,12 @@
 	TO PLAYLIST NAME: 24/04/22 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/68Zv5zZvO9XwwDF44ZCJZg
 
+2024-04-23 08:18:31,297 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:18AM 
+	FROM PLAYLIST NAME: daylist • 21st century garage monday 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic and trippy on Mondays. Here's some: 21st century, garage, surfing, psychedelic, krautrock, and spacey 
+	TOTAL SONGS TRANSFERED: 43
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/04/23 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5FCq8RBsuscuBH8Y94SubJ
+
