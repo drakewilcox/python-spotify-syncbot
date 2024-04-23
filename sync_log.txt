@@ -4147,3 +4147,12 @@
 	TO PLAYLIST NAME: 24/04/22 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/68Zv5zZvO9XwwDF44ZCJZg
 
+2024-04-23 01:04:26,170 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 06:04PM 
+	FROM PLAYLIST NAME: daylist • zamrock rare groove monday night 
+	FROM PLAYLIST DESCRIPTION: You listened to swamp rock and cosmic on Monday nights. Here's some: zamrock, rare groove, afrofunk, 60s-70s, sample, and afrobeat 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/22 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/68Zv5zZvO9XwwDF44ZCJZg
+
