@@ -4156,3 +4156,12 @@
 	TO PLAYLIST NAME: 24/04/22 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/68Zv5zZvO9XwwDF44ZCJZg
 
+2024-04-23 02:25:13,645 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:25PM 
+	FROM PLAYLIST NAME: daylist • zamrock pub monday night 
+	FROM PLAYLIST DESCRIPTION: You listened to trippy and cosmic on Monday nights. Here's some: zamrock, pub, rare groove, afrofunk, master recording, and obscure 
+	TOTAL SONGS TRANSFERED: 22
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/22 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/68Zv5zZvO9XwwDF44ZCJZg
+
