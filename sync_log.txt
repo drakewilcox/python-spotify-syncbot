@@ -4439,3 +4439,22 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
 
+2024-04-26 08:18:09,628 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:18AM 
+	FROM PLAYLIST NAME: daylist • dog indie friday 
+	FROM PLAYLIST DESCRIPTION: You listened to fresh and boom bap on Fridays. Here's some: melancholy, shoegaze, fresh, relaxing, alone, and dreamy 
+	TOTAL SONGS TRANSFERED: 36
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/04/26 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0C4hrZ8Hu0cVT4MlGP3QBw
+
+2024-04-26 08:18:24,312 - INFO - Transfer Performed 
+	LOCAL TIME: 01:18AM 
+	FROM PLAYLIST NAME: Compact Cassette 
+	FROM PLAYLIST DESCRIPTION: A weekly rotation of indie, dreampop and lofi vibes. Updated every Wednesday, save your favorites 💜 
+	TOTAL SONGS TRANSFERED: 1
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Compact Cassette Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/6c6Ra1iI1JjhADV2gnT7p6
+
