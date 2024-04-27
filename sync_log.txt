@@ -4548,3 +4548,12 @@
 	TO PLAYLIST NAME: 24/04/27 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0Y0CYG6rf3oA3sACXEWQq2
 
+2024-04-27 18:17:02,224 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:17AM 
+	FROM PLAYLIST NAME: daylist • pub bluesy saturday morning 
+	FROM PLAYLIST DESCRIPTION: You listened to outlaw country and western on Saturday mornings. Here's some: pub, bluesy, garage, dark country, beach goth, and twang 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/27 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0Y0CYG6rf3oA3sACXEWQq2
+
