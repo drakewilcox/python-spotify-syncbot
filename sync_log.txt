@@ -4593,3 +4593,12 @@
 	TO PLAYLIST NAME: 24/04/27 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0Y0CYG6rf3oA3sACXEWQq2
 
+2024-04-28 08:18:50,894 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:18AM 
+	FROM PLAYLIST NAME: daylist • modern psychedelic trippy rock sunday 
+	FROM PLAYLIST DESCRIPTION: You listened to dreamy and laid back on Sundays. Here's some: modern psychedelic, trippy rock, dreamscape, hypnosis, reverb, and psychedelic pop 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/04/28 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/4Nd6R4VqMsFh7JDEjml7il
+
