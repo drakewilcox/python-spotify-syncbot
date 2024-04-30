@@ -4756,3 +4756,12 @@
 	TO PLAYLIST NAME: 24/04/29 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5gyOMcmBUDWHlDDqqBm8i0
 
+2024-04-30 02:23:49,295 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:23PM 
+	FROM PLAYLIST NAME: daylist • zamrock rare groove monday evening 
+	FROM PLAYLIST DESCRIPTION: You listened to trippy and strange on Monday evenings. Here's some: zamrock, rare groove, soul funk, strange, sample, and outsider 
+	TOTAL SONGS TRANSFERED: 21
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/04/29 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5gyOMcmBUDWHlDDqqBm8i0
+
