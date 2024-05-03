@@ -5020,3 +5020,12 @@
 	TO PLAYLIST NAME: 24/05/03 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/7zFKMfiZQRXydaywbl1rPo
 
+2024-05-03 12:26:48,899 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 05:26AM 
+	FROM PLAYLIST NAME: daylist • 70s philly soul music for this moment 
+	FROM PLAYLIST DESCRIPTION: Since you've recently listened to adult rock and album rock. Here's some: funky soul, soul funk, mellow gold, groovin, classic soul, and adult rock 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/03 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/7zFKMfiZQRXydaywbl1rPo
+
