@@ -5056,3 +5056,12 @@
 	TO PLAYLIST NAME: 24/05/03 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/7zFKMfiZQRXydaywbl1rPo
 
+2024-05-03 22:14:26,239 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:14PM 
+	FROM PLAYLIST NAME: daylist • alone pov: indie friday evening 
+	FROM PLAYLIST DESCRIPTION: You listened to fresh and shoegaze on Friday evenings. Here's some: permanent wave, alone, alternative rock, dream pop, indie rock, and indietronica 
+	TOTAL SONGS TRANSFERED: 44
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/03 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/7zFKMfiZQRXydaywbl1rPo
+
