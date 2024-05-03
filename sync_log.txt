@@ -5038,3 +5038,12 @@
 	TO PLAYLIST NAME: 24/05/03 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/7zFKMfiZQRXydaywbl1rPo
 
+2024-05-03 18:18:33,811 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:18AM 
+	FROM PLAYLIST NAME: daylist • modern folk acoustic friday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to yearning and wistful on Friday afternoons. Here's some: modern folk, acoustic, indie folk, singer-songwriter, wistful, and songwriting 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/03 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/7zFKMfiZQRXydaywbl1rPo
+
