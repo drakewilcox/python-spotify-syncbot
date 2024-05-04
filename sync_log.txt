@@ -5065,3 +5065,12 @@
 	TO PLAYLIST NAME: 24/05/03 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/7zFKMfiZQRXydaywbl1rPo
 
+2024-05-04 01:03:51,142 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 06:03PM 
+	FROM PLAYLIST NAME: daylist • slowcore diy friday evening 
+	FROM PLAYLIST DESCRIPTION: You listened to shoegaze and cold on Friday evenings. Here's some: diy, shoegaze, lo-fi, home, delicate, and nu-gaze 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/03 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/7zFKMfiZQRXydaywbl1rPo
+
