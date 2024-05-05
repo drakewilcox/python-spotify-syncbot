@@ -5210,3 +5210,12 @@
 	TO PLAYLIST NAME: 24/05/05 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/08cATX2ECoslGMLNBppNQZ
 
+2024-05-05 18:17:34,024 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:17AM 
+	FROM PLAYLIST NAME: daylist • avant-garde strange sunday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to birds and vegan on Sunday afternoons. Here's some: avant-garde, strange, independent, experimental, new age, and krautrock 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/05 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/08cATX2ECoslGMLNBppNQZ
+
