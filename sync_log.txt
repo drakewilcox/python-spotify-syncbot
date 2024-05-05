@@ -5229,3 +5229,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
 
+2024-05-05 22:14:39,181 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:14PM 
+	FROM PLAYLIST NAME: daylist • strange avant-garde sunday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to birds and mystical on Sunday afternoons. Here's some: strange, avant-garde, krautrock, birds, motorik, and experimental 
+	TOTAL SONGS TRANSFERED: 35
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/05 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/08cATX2ECoslGMLNBppNQZ
+
