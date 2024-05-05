@@ -5201,3 +5201,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
 
+2024-05-05 14:13:11,801 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:13AM 
+	FROM PLAYLIST NAME: daylist • ethereal dreamscape early morning 
+	FROM PLAYLIST DESCRIPTION: You listened to femme fatale and art deco in the early morning. Here's some: dreamscape, beach house, melancholy, dream pop, shoegaze, and intimate 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/05 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/08cATX2ECoslGMLNBppNQZ
+
