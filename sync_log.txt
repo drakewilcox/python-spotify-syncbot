@@ -5182,3 +5182,22 @@
 	TO PLAYLIST NAME: 24/05/05 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/08cATX2ECoslGMLNBppNQZ
 
+2024-05-05 12:26:13,301 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 05:26AM 
+	FROM PLAYLIST NAME: daylist • italo disco rare groove music for this moment 
+	FROM PLAYLIST DESCRIPTION: Since you've recently listened to boogie and rare groove. Here's some: rare groove, funky disco, crate digging, disco funk, boogie, and obscure 
+	TOTAL SONGS TRANSFERED: 22
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/05 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/08cATX2ECoslGMLNBppNQZ
+
+2024-05-05 12:26:20,355 - INFO - Transfer Performed 
+	LOCAL TIME: 05:26AM 
+	FROM PLAYLIST NAME: POLLEN 
+	FROM PLAYLIST DESCRIPTION: Genre-less. Quality first always. Cover: Charlotte Day Wilson 
+	TOTAL SONGS TRANSFERED: 1
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Pollen Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
+
