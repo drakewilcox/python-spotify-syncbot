@@ -5238,3 +5238,12 @@
 	TO PLAYLIST NAME: 24/05/05 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/08cATX2ECoslGMLNBppNQZ
 
+2024-05-06 01:05:54,130 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 06:05PM 
+	FROM PLAYLIST NAME: daylist • gentle modern soul sunday night 
+	FROM PLAYLIST DESCRIPTION: You listened to indie christian and spiritual on Sunday nights. Here's some: modern soul, dreamy, warm, souldies, intimate, and spiritual 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/05 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/08cATX2ECoslGMLNBppNQZ
+
