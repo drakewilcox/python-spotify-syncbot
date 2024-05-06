@@ -5284,3 +5284,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1KHuoPDQnNWPpW9UDtbZxP
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/7tOT1UK2vnqTpWbwmuJs1a
 
+2024-05-06 14:14:24,241 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:14AM 
+	FROM PLAYLIST NAME: daylist • obscure rare groove monday 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic and indie christian on Mondays. Here's some: obscure, rare groove, boogie, mid-tempo, lunch, and adult rock 
+	TOTAL SONGS TRANSFERED: 5
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/06 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0aMRE6Feg06kpjZJpd6aRA
+
