@@ -5302,3 +5302,12 @@
 	TO PLAYLIST NAME: 24/05/06 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0aMRE6Feg06kpjZJpd6aRA
 
+2024-05-06 18:21:53,807 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:21AM 
+	FROM PLAYLIST NAME: daylist • warm soft monday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to cosmic and mellow on Monday afternoons. Here's some: warm, soft, delicate, dreamy, cosmic, and psychedelic 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/06 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0aMRE6Feg06kpjZJpd6aRA
+
