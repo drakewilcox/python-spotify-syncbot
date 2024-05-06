@@ -5256,3 +5256,12 @@
 	TO PLAYLIST NAME: 24/05/05 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/08cATX2ECoslGMLNBppNQZ
 
+2024-05-06 08:19:15,657 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:19AM 
+	FROM PLAYLIST NAME: daylist • rare groove lunch monday 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic and indie christian on Mondays. Here's some: rare groove, lunch, obscure, boogie, adult rock, and album rock 
+	TOTAL SONGS TRANSFERED: 40
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/05/06 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0aMRE6Feg06kpjZJpd6aRA
+
