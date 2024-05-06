@@ -5247,3 +5247,12 @@
 	TO PLAYLIST NAME: 24/05/05 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/08cATX2ECoslGMLNBppNQZ
 
+2024-05-06 04:18:39,419 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:18PM 
+	FROM PLAYLIST NAME: daylist • lounging smooth sunday night 
+	FROM PLAYLIST DESCRIPTION: You listened to dinner and bass guitar on Sunday nights. Here's some: lounging, smooth, chill instrumental, laid back, ethiopian jazz, and unwinding 
+	TOTAL SONGS TRANSFERED: 46
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/05 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/08cATX2ECoslGMLNBppNQZ
+
