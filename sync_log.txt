@@ -5330,3 +5330,12 @@
 	TO PLAYLIST NAME: 24/05/06 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0aMRE6Feg06kpjZJpd6aRA
 
+2024-05-07 02:31:13,214 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:31PM 
+	FROM PLAYLIST NAME: daylist • zamrock master recording monday night 
+	FROM PLAYLIST DESCRIPTION: You listened to trippy and cosmic on Monday nights. Here's some: zamrock, master recording, outsider, strange, sample, and obscure 
+	TOTAL SONGS TRANSFERED: 46
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/06 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0aMRE6Feg06kpjZJpd6aRA
+
