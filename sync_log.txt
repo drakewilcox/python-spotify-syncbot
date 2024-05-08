@@ -5457,3 +5457,12 @@
 	TO PLAYLIST NAME: 24/05/08 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6eBe7IjrjyzzbVairzhi1s
 
+2024-05-08 16:18:57,179 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:18AM 
+	FROM PLAYLIST NAME: daylist 
+	FROM PLAYLIST DESCRIPTION: Your day in a playlist. 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/08 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6eBe7IjrjyzzbVairzhi1s
+
