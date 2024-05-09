@@ -5475,3 +5475,12 @@
 	TO PLAYLIST NAME: 24/05/08 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6eBe7IjrjyzzbVairzhi1s
 
+2024-05-09 01:05:13,275 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 06:05PM 
+	FROM PLAYLIST NAME: daylist • twee 90s indie wednesday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to electronic chill and downbeat on Wednesday afternoons. Here's some: 90s indie, british indie, shoegaze, dream, alternative, and madchester 
+	TOTAL SONGS TRANSFERED: 26
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/08 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6eBe7IjrjyzzbVairzhi1s
+
