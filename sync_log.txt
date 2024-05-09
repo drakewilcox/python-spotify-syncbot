@@ -5549,3 +5549,12 @@
 	TO PLAYLIST NAME: 24/05/09 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2SJE5PIrnkybTIPRRSNT0m
 
+2024-05-09 18:18:30,704 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:18AM 
+	FROM PLAYLIST NAME: daylist • outsider diy morning 
+	FROM PLAYLIST DESCRIPTION: You listened to twang and outlaw country in the morning. Here's some: outsider, diy, lo-fi, obscure, master recording, and post-rock 
+	TOTAL SONGS TRANSFERED: 49
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/09 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2SJE5PIrnkybTIPRRSNT0m
+
