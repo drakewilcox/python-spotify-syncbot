@@ -5649,3 +5649,12 @@
 	TO PLAYLIST NAME: 24/05/10 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6MYrqmWubsh3zLKpFCZk3E
 
+2024-05-10 22:15:17,273 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:15PM 
+	FROM PLAYLIST NAME: daylist • indie shoegaze friday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to fresh and shoegaze on Friday afternoons. Here's some: shoegaze, dream pop, alternative rock, permanent wave, alone, and rainy day 
+	TOTAL SONGS TRANSFERED: 37
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/10 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6MYrqmWubsh3zLKpFCZk3E
+
