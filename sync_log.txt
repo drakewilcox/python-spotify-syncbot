@@ -5640,3 +5640,12 @@
 	TO PLAYLIST NAME: 24/05/10 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6MYrqmWubsh3zLKpFCZk3E
 
+2024-05-10 20:15:01,882 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:15PM 
+	FROM PLAYLIST NAME: daylist • acoustic nature friday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to journaling and folksy on Friday afternoons. Here's some: acoustic, nature, folk, quiet, mountain, and singer-songwriter 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/10 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6MYrqmWubsh3zLKpFCZk3E
+
