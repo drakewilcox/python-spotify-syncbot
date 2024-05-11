@@ -5694,3 +5694,12 @@
 	TO PLAYLIST NAME: 24/05/11 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/7JN63uYdi2lAzYBwDXypYj
 
+2024-05-11 10:15:30,768 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:15AM 
+	FROM PLAYLIST NAME: daylist • outsider twee friday 
+	FROM PLAYLIST DESCRIPTION: You listened to indie rock and obscure on Fridays. Here's some: outsider, skateboarding, lo-fi, 90s indie, beautiful, and jangle 
+	TOTAL SONGS TRANSFERED: 13
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/11 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/7JN63uYdi2lAzYBwDXypYj
+
