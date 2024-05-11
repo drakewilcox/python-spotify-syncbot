@@ -5658,3 +5658,12 @@
 	TO PLAYLIST NAME: 24/05/10 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6MYrqmWubsh3zLKpFCZk3E
 
+2024-05-11 01:05:10,210 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 06:05PM 
+	FROM PLAYLIST NAME: daylist • diy slowcore friday night 
+	FROM PLAYLIST DESCRIPTION: You listened to soft and shoegaze on Friday nights. Here's some: diy, shoegaze, cold, light, lo-fi, and delicate 
+	TOTAL SONGS TRANSFERED: 49
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/10 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6MYrqmWubsh3zLKpFCZk3E
+
