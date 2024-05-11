@@ -5712,3 +5712,12 @@
 	TO PLAYLIST NAME: 24/05/11 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/7JN63uYdi2lAzYBwDXypYj
 
+2024-05-11 16:17:50,266 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:17AM 
+	FROM PLAYLIST NAME: daylist • dark country psychobilly saturday morning 
+	FROM PLAYLIST DESCRIPTION: You listened to classic country and western on Saturday mornings. Here's some: dark country, psychobilly, western, cowboy, rockabilly, and twang 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/11 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/7JN63uYdi2lAzYBwDXypYj
+
