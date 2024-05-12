@@ -5822,3 +5822,12 @@
 	TO PLAYLIST NAME: 24/05/12 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3uyQAsOmh9JEoxDt9NwheJ
 
+2024-05-12 20:15:33,424 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:15PM 
+	FROM PLAYLIST NAME: daylist • reverb pet sunday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to southern hip hop and trillwave on Sunday afternoons. Here's some: reverb, pet, strange, jangle, psychedelic, and dreamy 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/12 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3uyQAsOmh9JEoxDt9NwheJ
+
