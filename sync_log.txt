@@ -5795,3 +5795,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
 
+2024-05-12 12:27:44,035 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 05:27AM 
+	FROM PLAYLIST NAME: daylist • new romantic synthpop sunday 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic and indie chill on Sundays. Here's some: synthpop, minimal wave, strange, new romantic, synthesizer, and coldwave 
+	TOTAL SONGS TRANSFERED: 36
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/12 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3uyQAsOmh9JEoxDt9NwheJ
+
