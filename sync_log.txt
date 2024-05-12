@@ -5739,3 +5739,22 @@
 	TO PLAYLIST NAME: 24/05/11 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/7JN63uYdi2lAzYBwDXypYj
 
+2024-05-12 01:11:07,337 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 06:11PM 
+	FROM PLAYLIST NAME: daylist • rare groove lunch saturday night 
+	FROM PLAYLIST DESCRIPTION: You listened to boogie and groovy on Saturday nights. Here's some: rare groove, lunch, pub, boogie, global, and sample 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/11 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/7JN63uYdi2lAzYBwDXypYj
+
+2024-05-12 01:11:32,905 - INFO - Transfer Performed 
+	LOCAL TIME: 06:11PM 
+	FROM PLAYLIST NAME: 2024 - Favorite Tracks (So Far)  
+	FROM PLAYLIST DESCRIPTION:  
+	TOTAL SONGS TRANSFERED: 4
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Compact Cassette Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
+
