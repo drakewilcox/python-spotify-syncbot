@@ -5933,3 +5933,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
 
+2024-05-13 22:15:03,095 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:15PM 
+	FROM PLAYLIST NAME: daylist • warm campfire monday evening 
+	FROM PLAYLIST DESCRIPTION: You listened to laurel canyon and wistful on Monday evenings. Here's some: campfire, warm, mellow, sentimental, pleasant, and cozy 
+	TOTAL SONGS TRANSFERED: 39
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/13 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0GaOmohVRJ8ENqroncVnwE
+
