@@ -5886,3 +5886,22 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1KHuoPDQnNWPpW9UDtbZxP
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/7tOT1UK2vnqTpWbwmuJs1a
 
+2024-05-13 14:13:59,915 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:13AM 
+	FROM PLAYLIST NAME: daylist • beach house dreamscape morning 
+	FROM PLAYLIST DESCRIPTION: You listened to championship and autumn in the morning. Here's some: beach house, dreamscape, intimate, dream pop, dissociation, and shoegaze 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/13 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0GaOmohVRJ8ENqroncVnwE
+
+2024-05-13 14:14:06,328 - INFO - Transfer Performed 
+	LOCAL TIME: 07:14AM 
+	FROM PLAYLIST NAME: POLLEN 
+	FROM PLAYLIST DESCRIPTION: Genre-less. Quality first always. Cover: Two Shell 
+	TOTAL SONGS TRANSFERED: 1
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Pollen Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
+
