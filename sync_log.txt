@@ -5858,3 +5858,12 @@
 	TO PLAYLIST NAME: 24/05/12 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3uyQAsOmh9JEoxDt9NwheJ
 
+2024-05-13 08:20:01,888 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:20AM 
+	FROM PLAYLIST NAME: daylist • warm easygoing monday 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic and indie christian on Mondays. Here's some: warm, easygoing, dreamy, mellow, reverb, and jukebox 
+	TOTAL SONGS TRANSFERED: 41
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/05/13 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0GaOmohVRJ8ENqroncVnwE
+
