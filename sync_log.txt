@@ -5914,3 +5914,12 @@
 	TO PLAYLIST NAME: 24/05/13 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0GaOmohVRJ8ENqroncVnwE
 
+2024-05-13 18:18:09,948 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:18AM 
+	FROM PLAYLIST NAME: daylist • warm cozy monday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to distant and magical on Monday afternoons. Here's some: warm, cozy, mountain, slow, quiet, and autumn 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/13 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0GaOmohVRJ8ENqroncVnwE
+
