@@ -5840,3 +5840,12 @@
 	TO PLAYLIST NAME: 24/05/12 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3uyQAsOmh9JEoxDt9NwheJ
 
+2024-05-13 02:29:34,945 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:29PM 
+	FROM PLAYLIST NAME: daylist • soulful smooth sunday night 
+	FROM PLAYLIST DESCRIPTION: You listened to cocktail hour and smooth on Sunday nights. Here's some: smooth, lounging, sensual, slow, unwinding, and velvety 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/12 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3uyQAsOmh9JEoxDt9NwheJ
+
