@@ -5905,3 +5905,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
 
+2024-05-13 16:20:18,597 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:20AM 
+	FROM PLAYLIST NAME: daylist • strange no wave afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to western and cowboy in the afternoon. Here's some: strange, no wave, 60s-70s, outsider, pleasant, and obscure 
+	TOTAL SONGS TRANSFERED: 49
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/13 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0GaOmohVRJ8ENqroncVnwE
+
