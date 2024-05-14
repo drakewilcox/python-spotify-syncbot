@@ -5942,3 +5942,12 @@
 	TO PLAYLIST NAME: 24/05/13 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0GaOmohVRJ8ENqroncVnwE
 
+2024-05-14 02:26:29,074 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:26PM 
+	FROM PLAYLIST NAME: daylist • zamrock strange monday night 
+	FROM PLAYLIST DESCRIPTION: You listened to trippy and swamp rock on Monday nights. Here's some: zamrock, strange, master recording, pub, obscure, and afrofunk 
+	TOTAL SONGS TRANSFERED: 48
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/13 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0GaOmohVRJ8ENqroncVnwE
+
