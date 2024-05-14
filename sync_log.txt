@@ -5960,3 +5960,12 @@
 	TO PLAYLIST NAME: 24/05/13 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0GaOmohVRJ8ENqroncVnwE
 
+2024-05-14 08:20:22,004 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:20AM 
+	FROM PLAYLIST NAME: daylist • jangle spacey monday 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic and trippy on Mondays. Here's some: jangle, spacey, krautrock, psychedelic, reverb, and modern 
+	TOTAL SONGS TRANSFERED: 45
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/05/14 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6aZ8wpskjOAOXrKWMPsBvC
+
