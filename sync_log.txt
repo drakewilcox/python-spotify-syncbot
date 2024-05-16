@@ -6171,3 +6171,22 @@
 	TO PLAYLIST NAME: 24/05/16 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/12XmBLZj7RE0lj3slQvdYO
 
+2024-05-16 16:18:22,396 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:18AM 
+	FROM PLAYLIST NAME: daylist 
+	FROM PLAYLIST DESCRIPTION: Your day in a playlist. 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/16 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/12XmBLZj7RE0lj3slQvdYO
+
+2024-05-16 16:18:28,404 - INFO - Transfer Performed 
+	LOCAL TIME: 09:18AM 
+	FROM PLAYLIST NAME: POLLEN 
+	FROM PLAYLIST DESCRIPTION: Genre-less. Quality first always. Cover: Two Shell 
+	TOTAL SONGS TRANSFERED: 1
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Pollen Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
+
