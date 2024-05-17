@@ -6263,3 +6263,12 @@
 	TO PLAYLIST NAME: 24/05/17 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0WFn9oOWEflrxWohgLdLBN
 
+2024-05-17 14:14:30,812 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:14AM 
+	FROM PLAYLIST NAME: daylist • post-punk femme fatale friday 
+	FROM PLAYLIST DESCRIPTION: You listened to laid back and dreamy on Fridays. Here's some: femme fatale, festival, art punk, master recording, egg punk, and crank wave 
+	TOTAL SONGS TRANSFERED: 3
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/17 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0WFn9oOWEflrxWohgLdLBN
+
