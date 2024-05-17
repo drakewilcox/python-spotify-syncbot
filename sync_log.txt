@@ -6290,3 +6290,12 @@
 	TO PLAYLIST NAME: 24/05/17 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0WFn9oOWEflrxWohgLdLBN
 
+2024-05-17 20:16:29,690 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:16PM 
+	FROM PLAYLIST NAME: daylist • soft acoustic friday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to soul crushing and journaling on Fridays in the afternoon. Here's some: acoustic, soft, yearning, quiet, singer-songwriter and twang 
+	TOTAL SONGS TRANSFERED: 48
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/17 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0WFn9oOWEflrxWohgLdLBN
+
