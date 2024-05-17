@@ -6217,3 +6217,22 @@
 	TO PLAYLIST NAME: 24/05/16 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/12XmBLZj7RE0lj3slQvdYO
 
+2024-05-17 04:18:12,013 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:18PM 
+	FROM PLAYLIST NAME: daylist • motown 70s soul thursday night 
+	FROM PLAYLIST DESCRIPTION: You listened to adult rock and album rock on Thursday nights. Here's some: 70s soul, 60s-70s, funky soul, 70s r&b, horns, and early 70s 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/16 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/12XmBLZj7RE0lj3slQvdYO
+
+2024-05-17 04:18:18,524 - INFO - Transfer Performed 
+	LOCAL TIME: 09:18PM 
+	FROM PLAYLIST NAME: POLLEN 
+	FROM PLAYLIST DESCRIPTION: Genre-less. Quality first always. Cover: NxWorries 
+	TOTAL SONGS TRANSFERED: 8
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Pollen Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
+
