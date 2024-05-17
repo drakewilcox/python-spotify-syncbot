@@ -6245,3 +6245,12 @@
 	TO PLAYLIST NAME: 24/05/16 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/12XmBLZj7RE0lj3slQvdYO
 
+2024-05-17 08:19:08,991 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:19AM 
+	FROM PLAYLIST NAME: daylist • relaxing indie thursday 
+	FROM PLAYLIST DESCRIPTION: You listened to mellow and laid back on Thursdays. Here's some: relaxing, folk, dream, mountain, festival, and quiet 
+	TOTAL SONGS TRANSFERED: 32
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/05/17 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0WFn9oOWEflrxWohgLdLBN
+
