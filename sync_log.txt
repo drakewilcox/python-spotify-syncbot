@@ -6272,3 +6272,12 @@
 	TO PLAYLIST NAME: 24/05/17 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0WFn9oOWEflrxWohgLdLBN
 
+2024-05-17 16:18:21,584 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:18AM 
+	FROM PLAYLIST NAME: daylist • bedroom pop hazy friday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic indie and synthpop on Friday afternoons. Here's some: dream pop, hazy, psychedelic indie, psychedelic pop, chillwave, and indie chill 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/17 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0WFn9oOWEflrxWohgLdLBN
+
