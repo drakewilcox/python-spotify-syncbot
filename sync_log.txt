@@ -6326,3 +6326,12 @@
 	TO PLAYLIST NAME: 24/05/17 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0WFn9oOWEflrxWohgLdLBN
 
+2024-05-18 06:18:51,914 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:18PM 
+	FROM PLAYLIST NAME: daylist • new school lyricist friday late night 
+	FROM PLAYLIST DESCRIPTION: You listened to lyricist and socially conscious on Friday late nights. Here's some: new school, lyricist, socially conscious, rhymes, sensational, and poetry 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/17 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0WFn9oOWEflrxWohgLdLBN
+
