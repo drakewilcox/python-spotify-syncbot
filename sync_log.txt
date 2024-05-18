@@ -6308,3 +6308,12 @@
 	TO PLAYLIST NAME: 24/05/17 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0WFn9oOWEflrxWohgLdLBN
 
+2024-05-18 01:05:15,039 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 06:05PM 
+	FROM PLAYLIST NAME: daylist • dog slowcore friday night 
+	FROM PLAYLIST DESCRIPTION: You listened to soft and shoegaze on Friday nights. Here's some: shoegaze, lo-fi, hopeful, beautiful, light, and festival 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/17 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0WFn9oOWEflrxWohgLdLBN
+
