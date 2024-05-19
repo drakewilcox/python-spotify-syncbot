@@ -6398,3 +6398,12 @@
 	TO PLAYLIST NAME: 24/05/18 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/64lup7TWUlm9DHcZNAC4Th
 
+2024-05-19 01:10:53,217 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 06:10PM 
+	FROM PLAYLIST NAME: daylist • pub rare groove saturday evening 
+	FROM PLAYLIST DESCRIPTION: You listened to boogie and groovy on Saturday evenings. Here's some: pub, rare groove, boogie, album rock, adult rock, and sample 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/18 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/64lup7TWUlm9DHcZNAC4Th
+
