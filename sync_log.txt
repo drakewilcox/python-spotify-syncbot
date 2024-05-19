@@ -6470,3 +6470,12 @@
 	TO PLAYLIST NAME: 24/05/19 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0dlkpmxSjKU0U7GU2KKsAq
 
+2024-05-19 22:16:16,602 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:16PM 
+	FROM PLAYLIST NAME: daylist • trippy spacey sunday evening 
+	FROM PLAYLIST DESCRIPTION: You listened to zen and psychedelic on Sunday evenings. Here's some: trippy, spacey, laid back, psychedelic, instrumental, and far out 
+	TOTAL SONGS TRANSFERED: 43
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/19 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0dlkpmxSjKU0U7GU2KKsAq
+
