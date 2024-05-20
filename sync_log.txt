@@ -6525,3 +6525,22 @@
 	TO PLAYLIST NAME: 24/05/20 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1O2prvELnTzGVRnKLMtcUE
 
+2024-05-20 18:19:48,543 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:19AM 
+	FROM PLAYLIST NAME: daylist • outsider obscure afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to cowboy and classic country in the afternoon. Here's some: outsider, obscure, strange, warm, fearful, and jangle 
+	TOTAL SONGS TRANSFERED: 1
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/20 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1O2prvELnTzGVRnKLMtcUE
+
+2024-05-20 18:19:56,109 - INFO - Transfer Performed 
+	LOCAL TIME: 11:19AM 
+	FROM PLAYLIST NAME: POLLEN 
+	FROM PLAYLIST DESCRIPTION: Genre-less. Quality first always. Cover: NxWorries 
+	TOTAL SONGS TRANSFERED: 1
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Pollen Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
+
