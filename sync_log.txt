@@ -6516,3 +6516,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1KHuoPDQnNWPpW9UDtbZxP
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/7tOT1UK2vnqTpWbwmuJs1a
 
+2024-05-20 16:19:42,950 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:19AM 
+	FROM PLAYLIST NAME: daylist • outsider obscure afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to cowboy and classic country in the afternoon. Here's some: outsider, obscure, strange, warm, fearful, and jangle 
+	TOTAL SONGS TRANSFERED: 48
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/20 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1O2prvELnTzGVRnKLMtcUE
+
