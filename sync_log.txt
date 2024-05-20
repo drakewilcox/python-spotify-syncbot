@@ -6497,3 +6497,12 @@
 	TO PLAYLIST NAME: 24/05/19 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0dlkpmxSjKU0U7GU2KKsAq
 
+2024-05-20 10:16:57,698 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:16AM 
+	FROM PLAYLIST NAME: daylist • cozy hang drum sunday 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic and dreamy on Sundays. Here's some: hang drum, cozy, ocean, mellow, easygoing, and indie chill 
+	TOTAL SONGS TRANSFERED: 38
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/20 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1O2prvELnTzGVRnKLMtcUE
+
