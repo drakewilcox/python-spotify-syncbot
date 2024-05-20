@@ -6544,3 +6544,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
 
+2024-05-20 20:15:50,623 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:15PM 
+	FROM PLAYLIST NAME: daylist • cosmic american outsider afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to outlaw country and western in the afternoon. Here's some: cosmic american, outsider, 60s-70s, adult rock, album rock and folk rock 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/20 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1O2prvELnTzGVRnKLMtcUE
+
