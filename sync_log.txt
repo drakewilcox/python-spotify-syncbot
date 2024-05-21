@@ -6598,3 +6598,12 @@
 	TO PLAYLIST NAME: 24/05/21 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/4D2SbddAaXHw2m4fu6uCUI
 
+2024-05-21 14:13:40,173 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:13AM 
+	FROM PLAYLIST NAME: daylist • ethereal beach house morning 
+	FROM PLAYLIST DESCRIPTION: You listened to femme fatale and art deco in the morning. Here's some: ethereal, beach house, dream, intimate, melancholy and floaty 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/21 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/4D2SbddAaXHw2m4fu6uCUI
+
