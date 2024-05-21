@@ -6616,3 +6616,12 @@
 	TO PLAYLIST NAME: 24/05/21 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/4D2SbddAaXHw2m4fu6uCUI
 
+2024-05-21 20:16:45,032 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:16PM 
+	FROM PLAYLIST NAME: daylist • hippie modern psychedelic tuesday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic and surf punk on Tuesdays in the afternoon. Here's some: hippie, modern psychedelic, surf music, psychedelic pop, trippy and far out 
+	TOTAL SONGS TRANSFERED: 42
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/21 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/4D2SbddAaXHw2m4fu6uCUI
+
