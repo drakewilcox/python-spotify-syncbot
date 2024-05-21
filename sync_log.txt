@@ -6589,3 +6589,12 @@
 	TO PLAYLIST NAME: 24/05/21 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/4D2SbddAaXHw2m4fu6uCUI
 
+2024-05-21 12:28:54,607 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 05:28AM 
+	FROM PLAYLIST NAME: daylist • garage surfing tuesday 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic and surfing on Tuesdays. Here's some: garage, surfing, castle, punkish, fuzzy and psychedelic 
+	TOTAL SONGS TRANSFERED: 40
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/21 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/4D2SbddAaXHw2m4fu6uCUI
+
