@@ -6607,3 +6607,12 @@
 	TO PLAYLIST NAME: 24/05/21 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/4D2SbddAaXHw2m4fu6uCUI
 
+2024-05-21 16:18:38,688 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:18AM 
+	FROM PLAYLIST NAME: daylist • dreamy psychedelic tuesday morning 
+	FROM PLAYLIST DESCRIPTION: You listened to easygoing and laid back on Tuesdays in the morning. Here's some: psychedelic, bedroom pop, dreamy, trippy, laid back and indie chill 
+	TOTAL SONGS TRANSFERED: 49
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/21 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/4D2SbddAaXHw2m4fu6uCUI
+
