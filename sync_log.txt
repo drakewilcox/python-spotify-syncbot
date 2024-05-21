@@ -6553,3 +6553,12 @@
 	TO PLAYLIST NAME: 24/05/20 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1O2prvELnTzGVRnKLMtcUE
 
+2024-05-21 01:06:22,382 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 06:06PM 
+	FROM PLAYLIST NAME: daylist • jukebox southern soul monday night 
+	FROM PLAYLIST DESCRIPTION: You listened to swamp rock and country on Mondays at night. Here's some: jukebox, southern soul, southern rock, crate digging, 60s-70s and funky soul 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/20 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1O2prvELnTzGVRnKLMtcUE
+
