@@ -6661,3 +6661,12 @@
 	TO PLAYLIST NAME: 24/05/22 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2KEoDWTcyouSh3SKga0Fsx
 
+2024-05-22 12:29:21,904 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 05:29AM 
+	FROM PLAYLIST NAME: daylist • magical psychedelic wednesday 
+	FROM PLAYLIST DESCRIPTION: You listened to indie and psychedelic on Wednesdays. Here's some: psychedelic, magical, dark, indie, dream and library 
+	TOTAL SONGS TRANSFERED: 44
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/22 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2KEoDWTcyouSh3SKga0Fsx
+
