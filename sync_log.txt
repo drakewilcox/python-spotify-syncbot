@@ -6643,3 +6643,12 @@
 	TO PLAYLIST NAME: 24/05/21 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/4D2SbddAaXHw2m4fu6uCUI
 
+2024-05-22 04:19:02,857 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:19PM 
+	FROM PLAYLIST NAME: daylist • mellow psychedelic tuesday night 
+	FROM PLAYLIST DESCRIPTION: You listened to jukebox and superstar on Tuesdays at night. Here's some: psychedelic, indie, mellow, warm, eclectic and easygoing 
+	TOTAL SONGS TRANSFERED: 41
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/21 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/4D2SbddAaXHw2m4fu6uCUI
+
