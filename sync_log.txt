@@ -6670,3 +6670,12 @@
 	TO PLAYLIST NAME: 24/05/22 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2KEoDWTcyouSh3SKga0Fsx
 
+2024-05-22 14:13:59,255 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:13AM 
+	FROM PLAYLIST NAME: daylist • post-punk revival no wave wednesday 
+	FROM PLAYLIST DESCRIPTION: You listened to indie and psychedelic on Wednesdays. Here's some: post-punk revival, dance-punk, no wave, art punk, strange and indie sleaze 
+	TOTAL SONGS TRANSFERED: 4
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/22 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2KEoDWTcyouSh3SKga0Fsx
+
