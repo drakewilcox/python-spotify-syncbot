@@ -6679,3 +6679,12 @@
 	TO PLAYLIST NAME: 24/05/22 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2KEoDWTcyouSh3SKga0Fsx
 
+2024-05-22 16:20:24,185 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:20AM 
+	FROM PLAYLIST NAME: daylist • festival crank wave afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic and cowboy in the afternoon. Here's some: festival, crank wave, post-punk, alternative, radio drama and psychedelic 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/22 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2KEoDWTcyouSh3SKga0Fsx
+
