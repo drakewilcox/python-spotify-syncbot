@@ -6652,3 +6652,12 @@
 	TO PLAYLIST NAME: 24/05/21 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/4D2SbddAaXHw2m4fu6uCUI
 
+2024-05-22 08:20:06,685 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:20AM 
+	FROM PLAYLIST NAME: daylist • magical psychedelic tuesday 
+	FROM PLAYLIST DESCRIPTION: You listened to indie and psychedelic on Tuesdays. Here's some: psychedelic, magical, dark, indie, dream and library 
+	TOTAL SONGS TRANSFERED: 47
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/05/22 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2KEoDWTcyouSh3SKga0Fsx
+
