@@ -6799,3 +6799,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
 
+2024-05-23 22:14:33,802 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:14PM 
+	FROM PLAYLIST NAME: daylist • fresh alternative thursday evening 
+	FROM PLAYLIST DESCRIPTION: You listened to fresh and 2020s on Thursday evenings. Here's some: fresh, alternative, crank wave, jukebox, 2020s, and vegan 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/23 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5qkT0AL7GZptWSsoDR8NAU
+
