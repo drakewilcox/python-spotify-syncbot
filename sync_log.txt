@@ -6753,3 +6753,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/6c6Ra1iI1JjhADV2gnT7p6
 
+2024-05-23 10:17:24,642 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:17AM 
+	FROM PLAYLIST NAME: daylist • 90s canon thursday 
+	FROM PLAYLIST DESCRIPTION: You listened to alternative and library on Thursdays. Here's some: canon, british indie, madchester, distortion, shoegaze, and jangle 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/23 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5qkT0AL7GZptWSsoDR8NAU
+
