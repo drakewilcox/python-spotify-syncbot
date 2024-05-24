@@ -6872,3 +6872,12 @@
 	TO PLAYLIST NAME: 24/05/24 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1fqL6UzZa34aFwsmbt1EEA
 
+2024-05-24 16:17:51,767 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:17AM 
+	FROM PLAYLIST NAME: daylist • indie surf bedroom pop friday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to indie surf and psychedelic indie on Friday afternoons. Here's some: indie surf, psychedelic indie, dream pop, indie chill, chillwave, and psychedelic pop 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/24 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1fqL6UzZa34aFwsmbt1EEA
+
