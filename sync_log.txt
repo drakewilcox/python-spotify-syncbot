@@ -6817,3 +6817,22 @@
 	TO PLAYLIST NAME: 24/05/23 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5qkT0AL7GZptWSsoDR8NAU
 
+2024-05-24 04:19:00,335 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:19PM 
+	FROM PLAYLIST NAME: daylist • 70s r&b motown thursday late night 
+	FROM PLAYLIST DESCRIPTION: You listened to album rock and blue-eyed soul on Thursday late nights. Here's some: 70s r&b, 60s-70s, 70s soul, early 70s, laurel canyon, and classic soul 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/23 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5qkT0AL7GZptWSsoDR8NAU
+
+2024-05-24 04:19:07,541 - INFO - Transfer Performed 
+	LOCAL TIME: 09:19PM 
+	FROM PLAYLIST NAME: POLLEN 
+	FROM PLAYLIST DESCRIPTION: Genre-less. Quality first always. Cover: Vince Staples 
+	TOTAL SONGS TRANSFERED: 8
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Pollen Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
+
