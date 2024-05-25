@@ -6908,3 +6908,12 @@
 	TO PLAYLIST NAME: 24/05/24 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1fqL6UzZa34aFwsmbt1EEA
 
+2024-05-25 08:18:58,725 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:18AM 
+	FROM PLAYLIST NAME: daylist • new wave post-punk saturday 
+	FROM PLAYLIST DESCRIPTION: You listened to obscure and psychedelic on Saturdays. Here's some: new wave, dance-punk, new romantic, synthpop, punk funk, and jangle pop 
+	TOTAL SONGS TRANSFERED: 36
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/05/25 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5IL1yoGVj3PlcWwR2Y0NLM
+
