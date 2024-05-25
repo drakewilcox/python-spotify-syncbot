@@ -6890,3 +6890,12 @@
 	TO PLAYLIST NAME: 24/05/24 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1fqL6UzZa34aFwsmbt1EEA
 
+2024-05-25 01:05:23,731 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 06:05PM 
+	FROM PLAYLIST NAME: daylist • lo-fi shoegaze friday evening 
+	FROM PLAYLIST DESCRIPTION: You listened to shoegaze and soft on Friday evenings. Here's some: lo-fi, shoegaze, festival, light, autumn, and dream 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/24 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1fqL6UzZa34aFwsmbt1EEA
+
