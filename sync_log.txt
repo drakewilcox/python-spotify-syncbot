@@ -7179,3 +7179,22 @@
 	TO PLAYLIST NAME: 24/05/28 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1v9rCJGqboiDv405dI2DVP
 
+2024-05-28 22:14:31,688 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:14PM 
+	FROM PLAYLIST NAME: daylist • surf punk garage band tuesday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to garage and surfing on Tuesday afternoons. Here's some: surf punk, garage band, revival, surf music, beach goth, and garage punk 
+	TOTAL SONGS TRANSFERED: 18
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/28 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1v9rCJGqboiDv405dI2DVP
+
+2024-05-28 22:14:39,228 - INFO - Transfer Performed 
+	LOCAL TIME: 03:14PM 
+	FROM PLAYLIST NAME: POLLEN 
+	FROM PLAYLIST DESCRIPTION: Genre-less. Quality first always. Cover: Vince Staples 
+	TOTAL SONGS TRANSFERED: 1
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Pollen Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
+
