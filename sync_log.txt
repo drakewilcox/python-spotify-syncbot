@@ -7298,3 +7298,13 @@
 	TO PLAYLIST NAME: 24/05/29 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3MxaFj0aXTq1ygQmtzSVvl
 
+2024-05-29 22:16:05,420 - INFO - Transfer Performed 
+	LOCAL TIME: 03:16PM 
+	FROM PLAYLIST NAME: 2024 - Favorite Tracks (So Far)  
+	FROM PLAYLIST DESCRIPTION:  
+	TOTAL SONGS TRANSFERED: 2
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Compact Cassette Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
+
