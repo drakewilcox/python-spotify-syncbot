@@ -7289,3 +7289,12 @@
 	TO PLAYLIST NAME: 24/05/29 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3MxaFj0aXTq1ygQmtzSVvl
 
+2024-05-29 20:17:04,653 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:17PM 
+	FROM PLAYLIST NAME: daylist • ethereal art pop wednesday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to art rock and funky disco on Wednesday afternoons. Here's some: art pop, dream pop, dance-punk, shoegaze, synthpop, and 90s indie 
+	TOTAL SONGS TRANSFERED: 37
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/29 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3MxaFj0aXTq1ygQmtzSVvl
+
