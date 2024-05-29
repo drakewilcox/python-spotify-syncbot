@@ -7198,3 +7198,22 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
 
+2024-05-29 01:10:30,458 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 06:10PM 
+	FROM PLAYLIST NAME: daylist • reverb space rock tuesday night 
+	FROM PLAYLIST DESCRIPTION: You listened to electronic chill and psychedelic on Tuesday nights. Here's some: reverb, space rock, modern psychedelic, krautrock, far out, and psychedelic pop 
+	TOTAL SONGS TRANSFERED: 49
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/28 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1v9rCJGqboiDv405dI2DVP
+
+2024-05-29 01:10:55,100 - INFO - Transfer Performed 
+	LOCAL TIME: 06:10PM 
+	FROM PLAYLIST NAME: 2024 - Favorite Tracks (So Far)  
+	FROM PLAYLIST DESCRIPTION:  
+	TOTAL SONGS TRANSFERED: 1
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Compact Cassette Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
+
