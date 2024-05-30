@@ -7390,3 +7390,12 @@
 	TO PLAYLIST NAME: 24/05/30 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3FSd4GWy1oIxdRE51vpGSu
 
+2024-05-30 22:15:13,005 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:15PM 
+	FROM PLAYLIST NAME: daylist • fresh eclectic thursday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to funky disco and fresh on Thursday afternoons. Here's some: fresh, eclectic, vegan, crank wave, neo soul, and alternative 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/30 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3FSd4GWy1oIxdRE51vpGSu
+
