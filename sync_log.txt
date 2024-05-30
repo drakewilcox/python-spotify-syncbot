@@ -7363,3 +7363,12 @@
 	TO PLAYLIST NAME: 24/05/30 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3FSd4GWy1oIxdRE51vpGSu
 
+2024-05-30 12:29:11,008 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 05:29AM 
+	FROM PLAYLIST NAME: daylist • twee noise pop thursday 
+	FROM PLAYLIST DESCRIPTION: You listened to no wave and funky disco on Thursdays. Here's some: noise pop, motorik, 90s indie, obscure, jangle, and drums 
+	TOTAL SONGS TRANSFERED: 19
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/30 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3FSd4GWy1oIxdRE51vpGSu
+
