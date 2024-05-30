@@ -7317,3 +7317,12 @@
 	TO PLAYLIST NAME: 24/05/29 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3MxaFj0aXTq1ygQmtzSVvl
 
+2024-05-30 02:30:16,972 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:30PM 
+	FROM PLAYLIST NAME: daylist • distortion noise pop wednesday night 
+	FROM PLAYLIST DESCRIPTION: You listened to no wave and art rock on Wednesday nights. Here's some: distortion, noise pop, 90s indie, noise rock, british indie, and college rock 
+	TOTAL SONGS TRANSFERED: 41
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/29 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3MxaFj0aXTq1ygQmtzSVvl
+
