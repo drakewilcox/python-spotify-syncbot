@@ -7372,3 +7372,12 @@
 	TO PLAYLIST NAME: 24/05/30 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3FSd4GWy1oIxdRE51vpGSu
 
+2024-05-30 16:19:17,614 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:19AM 
+	FROM PLAYLIST NAME: daylist • crank wave art punk morning 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic and dreamy in the morning. Here's some: crank wave, art punk, jangle, post-rock, noise pop, and egg punk 
+	TOTAL SONGS TRANSFERED: 40
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/30 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3FSd4GWy1oIxdRE51vpGSu
+
