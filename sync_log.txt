@@ -7381,3 +7381,12 @@
 	TO PLAYLIST NAME: 24/05/30 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3FSd4GWy1oIxdRE51vpGSu
 
+2024-05-30 20:17:20,327 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:17PM 
+	FROM PLAYLIST NAME: daylist • disco fever traditional funk thursday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to funky disco and boogie on Thursday afternoons. Here's some: 70s disco, post-disco, funky disco, traditional funk, funky groove, and 80s disco 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/30 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3FSd4GWy1oIxdRE51vpGSu
+
