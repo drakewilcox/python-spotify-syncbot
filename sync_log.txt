@@ -7326,3 +7326,12 @@
 	TO PLAYLIST NAME: 24/05/29 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3MxaFj0aXTq1ygQmtzSVvl
 
+2024-05-30 04:21:04,672 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:21PM 
+	FROM PLAYLIST NAME: daylist • canon college wednesday night 
+	FROM PLAYLIST DESCRIPTION: You listened to mid 2000s and canadian indie on Wednesday nights. Here's some: canon, college, chin-stroking, 21st century, alternative, and amped 
+	TOTAL SONGS TRANSFERED: 47
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/29 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3MxaFj0aXTq1ygQmtzSVvl
+
