@@ -7463,3 +7463,12 @@
 	TO PLAYLIST NAME: 24/05/31 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6HZzRyrZkYCE2ph624f4BJ
 
+2024-05-31 18:19:47,913 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:19AM 
+	FROM PLAYLIST NAME: daylist • folk pop acoustic friday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to soul crushing and contemporary folk on Fridays in the afternoon. Here's some: folk pop, modern folk, acoustic, twang, quiet and indie folk 
+	TOTAL SONGS TRANSFERED: 48
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/31 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6HZzRyrZkYCE2ph624f4BJ
+
