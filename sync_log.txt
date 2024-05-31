@@ -7399,3 +7399,12 @@
 	TO PLAYLIST NAME: 24/05/30 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3FSd4GWy1oIxdRE51vpGSu
 
+2024-05-31 02:30:18,080 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:30PM 
+	FROM PLAYLIST NAME: daylist • 70s soul motown thursday night 
+	FROM PLAYLIST DESCRIPTION: You listened to blue-eyed soul and adult rock on Thursday nights. Here's some: 70s soul, 60s-70s, classic soul, 70s r&b, laurel canyon, and traditional funk 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/30 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3FSd4GWy1oIxdRE51vpGSu
+
