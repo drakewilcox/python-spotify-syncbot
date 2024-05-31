@@ -7408,3 +7408,13 @@
 	TO PLAYLIST NAME: 24/05/30 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3FSd4GWy1oIxdRE51vpGSu
 
+2024-05-31 04:19:47,649 - INFO - Transfer Performed 
+	LOCAL TIME: 09:19PM 
+	FROM PLAYLIST NAME: POLLEN 
+	FROM PLAYLIST DESCRIPTION: Genre-less. Quality first always. Cover: James Blake 
+	TOTAL SONGS TRANSFERED: 7
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Pollen Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
+
