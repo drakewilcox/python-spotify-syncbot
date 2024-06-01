@@ -7553,3 +7553,12 @@
 	TO PLAYLIST NAME: 24/06/01 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/27mXlSl8GLHPwMXyI519aZ
 
+2024-06-01 22:13:14,075 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:13PM 
+	FROM PLAYLIST NAME: daylist • crate digging rare groove saturday evening 
+	FROM PLAYLIST DESCRIPTION: You listened to rare groove and soul jazz on Saturdays in the evening. Here's some: crate digging, rare groove, 70s soul, funky soul, sample and soul jazz 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/01 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/27mXlSl8GLHPwMXyI519aZ
+
