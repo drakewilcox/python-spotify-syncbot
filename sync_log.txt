@@ -7499,3 +7499,12 @@
 	TO PLAYLIST NAME: 24/05/31 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6HZzRyrZkYCE2ph624f4BJ
 
+2024-06-01 02:33:27,990 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:33PM 
+	FROM PLAYLIST NAME: daylist • twee jangle friday night 
+	FROM PLAYLIST DESCRIPTION: You listened to indie and psychedelic pop on Fridays at night. Here's some: twee, jangle, indie punk, art punk, post-punk and egg punk 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/05/31 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6HZzRyrZkYCE2ph624f4BJ
+
