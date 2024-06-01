@@ -7517,3 +7517,12 @@
 	TO PLAYLIST NAME: 24/05/31 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6HZzRyrZkYCE2ph624f4BJ
 
+2024-06-01 10:16:41,483 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:16AM 
+	FROM PLAYLIST NAME: daylist • garage heavy psych friday 
+	FROM PLAYLIST DESCRIPTION: You listened to garage rock and surfing on Fridays. Here's some: garage, heavy psych, fuzzy, riff, noise and surfing 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/01 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/27mXlSl8GLHPwMXyI519aZ
+
