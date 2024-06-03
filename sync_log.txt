@@ -7708,3 +7708,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
 
+2024-06-03 16:19:27,089 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:19AM 
+	FROM PLAYLIST NAME: daylist • soulful smooth r&b monday morning 
+	FROM PLAYLIST DESCRIPTION: You listened to slow r&b and modern r&b on Mondays in the morning. Here's some: soulful, smooth r&b, earthy, modern r&b, velvety and jazzy 
+	TOTAL SONGS TRANSFERED: 45
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/03 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3KQaic4wQgwpsxlCpCTNBL
+
