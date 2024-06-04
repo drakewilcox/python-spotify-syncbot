@@ -7735,3 +7735,12 @@
 	TO PLAYLIST NAME: 24/06/03 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3KQaic4wQgwpsxlCpCTNBL
 
+2024-06-04 01:08:25,374 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 06:08PM 
+	FROM PLAYLIST NAME: daylist • muscle shoals country rock monday night 
+	FROM PLAYLIST DESCRIPTION: You listened to swamp rock and country on Mondays at night. Here's some: muscle shoals, country rock, southern rock, 60s-70s, outlaw country and swamp rock 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/03 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3KQaic4wQgwpsxlCpCTNBL
+
