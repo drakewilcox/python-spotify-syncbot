@@ -7753,3 +7753,12 @@
 	TO PLAYLIST NAME: 24/06/03 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3KQaic4wQgwpsxlCpCTNBL
 
+2024-06-04 04:18:08,458 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:18PM 
+	FROM PLAYLIST NAME: daylist • 60s-70s laurel canyon late night 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic and indie in the late night. Here's some: 60s-70s, laurel canyon, cosmic american, folk rock, obscure and early 70s 
+	TOTAL SONGS TRANSFERED: 45
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/03 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3KQaic4wQgwpsxlCpCTNBL
+
