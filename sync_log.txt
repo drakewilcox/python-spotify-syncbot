@@ -7780,3 +7780,12 @@
 	TO PLAYLIST NAME: 24/06/04 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/7yYh4K8rvv2wCPx7xYptcL
 
+2024-06-04 10:17:09,398 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:17AM 
+	FROM PLAYLIST NAME: daylist • cosmic american country rock monday 
+	FROM PLAYLIST DESCRIPTION: You listened to swamp rock and cosmic on Mondays. Here's some: cosmic american, country rock, 60s-70s, folk rock, laurel canyon and obscure 
+	TOTAL SONGS TRANSFERED: 6
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/04 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/7yYh4K8rvv2wCPx7xYptcL
+
