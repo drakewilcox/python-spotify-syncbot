@@ -7816,3 +7816,22 @@
 	TO PLAYLIST NAME: 24/06/04 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/7yYh4K8rvv2wCPx7xYptcL
 
+2024-06-04 20:16:04,194 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:16PM 
+	FROM PLAYLIST NAME: daylist • obscure 60s-70s afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to indie and psychedelic in the afternoon. Here's some: obscure, 60s-70s, laurel canyon, progressive, early 70s and cosmic american 
+	TOTAL SONGS TRANSFERED: 41
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/04 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/7yYh4K8rvv2wCPx7xYptcL
+
+2024-06-04 20:16:11,919 - INFO - Transfer Performed 
+	LOCAL TIME: 01:16PM 
+	FROM PLAYLIST NAME: POLLEN 
+	FROM PLAYLIST DESCRIPTION: Genre-less. Quality first always. Cover: James Blake 
+	TOTAL SONGS TRANSFERED: 1
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Pollen Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
+
