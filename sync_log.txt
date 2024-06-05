@@ -7907,3 +7907,12 @@
 	TO PLAYLIST NAME: 24/06/05 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2QQNemWRevmIRFVUt5OyCl
 
+2024-06-05 16:19:55,811 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:19AM 
+	FROM PLAYLIST NAME: daylist • 2020s indie afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to dreamy and alternative r&b in the afternoon. Here's some: 2020s, indie, fresh, baroque pop, april fools and alternative pop 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/05 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2QQNemWRevmIRFVUt5OyCl
+
