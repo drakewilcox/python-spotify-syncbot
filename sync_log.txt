@@ -7898,3 +7898,12 @@
 	TO PLAYLIST NAME: 24/06/05 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2QQNemWRevmIRFVUt5OyCl
 
+2024-06-05 14:16:14,009 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:16AM 
+	FROM PLAYLIST NAME: daylist • 20th century 80s alternative wednesday 
+	FROM PLAYLIST DESCRIPTION: You listened to indie rock and psychedelic on Wednesdays. Here's some: 20th century, 80s alternative, canon, new romantic, 80s new wave and 80s synth 
+	TOTAL SONGS TRANSFERED: 12
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/05 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2QQNemWRevmIRFVUt5OyCl
+
