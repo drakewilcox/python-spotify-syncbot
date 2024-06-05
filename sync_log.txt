@@ -7880,3 +7880,12 @@
 	TO PLAYLIST NAME: 24/06/05 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2QQNemWRevmIRFVUt5OyCl
 
+2024-06-05 10:16:36,289 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:16AM 
+	FROM PLAYLIST NAME: daylist • 20th century 60s-70s wednesday 
+	FROM PLAYLIST DESCRIPTION: You listened to indie and psychedelic on Wednesdays. Here's some: 20th century, 60s-70s, laurel canyon, fusion, 70s rock and jazz rock 
+	TOTAL SONGS TRANSFERED: 3
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/05 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2QQNemWRevmIRFVUt5OyCl
+
