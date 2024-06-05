@@ -7916,3 +7916,12 @@
 	TO PLAYLIST NAME: 24/06/05 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2QQNemWRevmIRFVUt5OyCl
 
+2024-06-05 20:17:09,620 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:17PM 
+	FROM PLAYLIST NAME: daylist • indie disco alternative dance wednesday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to alternative and 90s on Wednesdays in the afternoon. Here's some: indie disco, alternative dance, 00s indie, britpop, whimsigothic and madchester 
+	TOTAL SONGS TRANSFERED: 38
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/05 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2QQNemWRevmIRFVUt5OyCl
+
