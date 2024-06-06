@@ -7943,3 +7943,22 @@
 	TO PLAYLIST NAME: 24/06/05 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2QQNemWRevmIRFVUt5OyCl
 
+2024-06-06 06:21:20,856 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:21PM 
+	FROM PLAYLIST NAME: daylist • 90s indie canon wednesday late night 
+	FROM PLAYLIST DESCRIPTION: You listened to mid 2000s and canadian rock on Wednesdays in the late night. Here's some: 90s indie, canon, late 90s, 00s indie, college and alternative rock 
+	TOTAL SONGS TRANSFERED: 42
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/05 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2QQNemWRevmIRFVUt5OyCl
+
+2024-06-06 06:21:35,347 - INFO - Transfer Performed 
+	LOCAL TIME: 11:21PM 
+	FROM PLAYLIST NAME: Compact Cassette 
+	FROM PLAYLIST DESCRIPTION: A weekly rotation of indie, dreampop and lofi vibes. Updated every Wednesday, save your favorites 💜 
+	TOTAL SONGS TRANSFERED: 62
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Compact Cassette Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/6c6Ra1iI1JjhADV2gnT7p6
+
