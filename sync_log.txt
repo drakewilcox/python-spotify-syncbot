@@ -8062,3 +8062,22 @@
 	TO PLAYLIST NAME: 24/06/07 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2Wa5jWFChVjJkbk8YJxXFZ
 
+2024-06-07 18:21:41,083 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:21AM 
+	FROM PLAYLIST NAME: daylist 
+	FROM PLAYLIST DESCRIPTION: Your day in a playlist. 
+	TOTAL SONGS TRANSFERED: 49
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/07 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2Wa5jWFChVjJkbk8YJxXFZ
+
+2024-06-07 18:22:07,879 - INFO - Transfer Performed 
+	LOCAL TIME: 11:22AM 
+	FROM PLAYLIST NAME: 2024 - Favorite Tracks (So Far)  
+	FROM PLAYLIST DESCRIPTION:  
+	TOTAL SONGS TRANSFERED: 1
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Compact Cassette Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
+
