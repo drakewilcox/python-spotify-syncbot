@@ -8044,3 +8044,12 @@
 	TO PLAYLIST NAME: 24/06/06 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6mYQ7yvuKP5SfVq2DUB9v0
 
+2024-06-07 12:31:03,332 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 05:31AM 
+	FROM PLAYLIST NAME: daylist • new romantic funk rock thursday 
+	FROM PLAYLIST DESCRIPTION: You listened to 2020s and fresh on Thursdays. Here's some: funk rock, 80s alternative, new romantic, 80s new wave, dance rock and influential 
+	TOTAL SONGS TRANSFERED: 42
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/07 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2Wa5jWFChVjJkbk8YJxXFZ
+
