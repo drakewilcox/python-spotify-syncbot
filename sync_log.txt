@@ -8016,3 +8016,12 @@
 	TO PLAYLIST NAME: 24/06/06 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6mYQ7yvuKP5SfVq2DUB9v0
 
+2024-06-07 02:32:38,369 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:32PM 
+	FROM PLAYLIST NAME: daylist • 70s soul traditional funk thursday night 
+	FROM PLAYLIST DESCRIPTION: You listened to yacht rock and oldies on Thursdays at night. Here's some: 70s soul, 70s r&b, traditional funk, old school soul, 60s-70s and classic soul 
+	TOTAL SONGS TRANSFERED: 47
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/06 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6mYQ7yvuKP5SfVq2DUB9v0
+
