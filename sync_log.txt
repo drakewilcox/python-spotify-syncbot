@@ -8153,3 +8153,12 @@
 	TO PLAYLIST NAME: 24/06/08 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5xqOz6EMOcy4ctUYAIunDj
 
+2024-06-08 18:19:10,899 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:19AM 
+	FROM PLAYLIST NAME: daylist • college rock 90s indie saturday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to garage rock revival and hipster on Saturdays in the afternoon. Here's some: college rock, 90s indie, flannel, 00s indie, alternative and late 90s 
+	TOTAL SONGS TRANSFERED: 49
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/08 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5xqOz6EMOcy4ctUYAIunDj
+
