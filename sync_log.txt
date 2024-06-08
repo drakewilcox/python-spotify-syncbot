@@ -8117,3 +8117,12 @@
 	TO PLAYLIST NAME: 24/06/07 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2Wa5jWFChVjJkbk8YJxXFZ
 
+2024-06-08 08:17:47,851 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:17AM 
+	FROM PLAYLIST NAME: daylist • experimental rock post-punk revival friday 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic and trippy on Fridays. Here's some: experimental rock, post-rock, art punk, art rock, modern rock and dance-punk 
+	TOTAL SONGS TRANSFERED: 35
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/06/08 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5xqOz6EMOcy4ctUYAIunDj
+
