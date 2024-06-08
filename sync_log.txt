@@ -8162,3 +8162,12 @@
 	TO PLAYLIST NAME: 24/06/08 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5xqOz6EMOcy4ctUYAIunDj
 
+2024-06-08 20:14:44,843 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:14PM 
+	FROM PLAYLIST NAME: daylist • chin-stroking college rock saturday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to solo artist and early 70s on Saturdays in the afternoon. Here's some: chin-stroking, college rock, 00s indie, twee, 90s indie and hipster 
+	TOTAL SONGS TRANSFERED: 36
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/08 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5xqOz6EMOcy4ctUYAIunDj
+
