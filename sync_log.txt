@@ -8090,3 +8090,12 @@
 	TO PLAYLIST NAME: 24/06/07 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2Wa5jWFChVjJkbk8YJxXFZ
 
+2024-06-08 01:08:20,283 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 06:08PM 
+	FROM PLAYLIST NAME: daylist • festival psychedelic friday night 
+	FROM PLAYLIST DESCRIPTION: You listened to heavy psych and crunchy on Fridays at night. Here's some: festival, psychedelic, garage, indie, fuzzy and alternative 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/07 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2Wa5jWFChVjJkbk8YJxXFZ
+
