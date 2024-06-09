@@ -8225,3 +8225,12 @@
 	TO PLAYLIST NAME: 24/06/09 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5s6IriPDwegQw5WBHHJFBL
 
+2024-06-09 16:17:54,421 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:17AM 
+	FROM PLAYLIST NAME: daylist • dreamy indie sunday morning 
+	FROM PLAYLIST DESCRIPTION: You listened to dreamy and indie on Sundays in the morning. Here's some: indie, ethereal, dreamy, gentle, tender and cozy 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/09 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5s6IriPDwegQw5WBHHJFBL
+
