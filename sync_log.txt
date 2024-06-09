@@ -8207,3 +8207,12 @@
 	TO PLAYLIST NAME: 24/06/09 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5s6IriPDwegQw5WBHHJFBL
 
+2024-06-09 12:28:11,932 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 05:28AM 
+	FROM PLAYLIST NAME: daylist • rare groove sample sunday 
+	FROM PLAYLIST DESCRIPTION: You listened to dreamy and psychedelic on Sundays. Here's some: rare groove, sample, ethiopian jazz, lounging, flute and spiritual jazz 
+	TOTAL SONGS TRANSFERED: 4
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/09 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5s6IriPDwegQw5WBHHJFBL
+
