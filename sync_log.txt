@@ -8298,3 +8298,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1KHuoPDQnNWPpW9UDtbZxP
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/7tOT1UK2vnqTpWbwmuJs1a
 
+2024-06-10 16:20:13,478 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:20AM 
+	FROM PLAYLIST NAME: daylist • soul soothing earthy monday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to r&b and earthy on Mondays in the afternoon. Here's some: soulful, earthy, smooth r&b, modern r&b, velvety and sensual 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/10 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5MD58NSfQIufRFxS2Zaa7x
+
