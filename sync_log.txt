@@ -8316,3 +8316,12 @@
 	TO PLAYLIST NAME: 24/06/10 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5MD58NSfQIufRFxS2Zaa7x
 
+2024-06-10 22:15:51,050 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:15PM 
+	FROM PLAYLIST NAME: daylist • soft indie monday evening 
+	FROM PLAYLIST DESCRIPTION: You listened to calm and chaotic on Mondays in the evening. Here's some: indie, psychedelic, soft, vocalist, alternative and dream 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/10 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5MD58NSfQIufRFxS2Zaa7x
+
