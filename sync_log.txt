@@ -8416,3 +8416,22 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
 
+2024-06-11 20:16:24,532 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:16PM 
+	FROM PLAYLIST NAME: daylist • laurel canyon 70s rock afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to indie and psychedelic in the afternoon. Here's some: laurel canyon, 70s rock, jazz rock, classic, mellow gold and keyboard 
+	TOTAL SONGS TRANSFERED: 9
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/11 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5i7NTKk9RGMHGDtuesLg6p
+
+2024-06-11 20:16:50,643 - INFO - Transfer Performed 
+	LOCAL TIME: 01:16PM 
+	FROM PLAYLIST NAME: 2024 - Favorite Tracks (So Far)  
+	FROM PLAYLIST DESCRIPTION:  
+	TOTAL SONGS TRANSFERED: 2
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Compact Cassette Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
+
