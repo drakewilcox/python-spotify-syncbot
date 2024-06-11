@@ -8325,3 +8325,12 @@
 	TO PLAYLIST NAME: 24/06/10 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5MD58NSfQIufRFxS2Zaa7x
 
+2024-06-11 01:09:25,808 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 06:09PM 
+	FROM PLAYLIST NAME: daylist • muscle shoals southern soul monday night 
+	FROM PLAYLIST DESCRIPTION: You listened to swamp rock and honky tonk on Mondays at night. Here's some: muscle shoals, southern soul, swamp rock, country rock, southern rock and bluesy 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/10 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5MD58NSfQIufRFxS2Zaa7x
+
