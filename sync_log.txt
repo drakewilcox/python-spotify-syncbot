@@ -8388,3 +8388,12 @@
 	TO PLAYLIST NAME: 24/06/11 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5i7NTKk9RGMHGDtuesLg6p
 
+2024-06-11 16:20:13,757 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:20AM 
+	FROM PLAYLIST NAME: daylist • 70s rock mellow gold morning 
+	FROM PLAYLIST DESCRIPTION: You listened to dreamy and alternative r&b in the morning. Here's some: 70s rock, mellow gold, 60s-70s, jazz rock, classic and 20th century 
+	TOTAL SONGS TRANSFERED: 41
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/11 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5i7NTKk9RGMHGDtuesLg6p
+
