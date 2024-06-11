@@ -8352,3 +8352,12 @@
 	TO PLAYLIST NAME: 24/06/10 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5MD58NSfQIufRFxS2Zaa7x
 
+2024-06-11 08:20:25,555 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:20AM 
+	FROM PLAYLIST NAME: daylist • 60s-70s funk rock monday 
+	FROM PLAYLIST DESCRIPTION: You listened to 70s and yacht rock on Mondays. Here's some: 60s-70s, 70s rock, funk rock, laurel canyon, 70s r&b and 20th century 
+	TOTAL SONGS TRANSFERED: 34
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/06/11 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5i7NTKk9RGMHGDtuesLg6p
+
