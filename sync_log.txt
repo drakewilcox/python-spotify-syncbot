@@ -8379,3 +8379,12 @@
 	TO PLAYLIST NAME: 24/06/11 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5i7NTKk9RGMHGDtuesLg6p
 
+2024-06-11 14:15:05,408 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:15AM 
+	FROM PLAYLIST NAME: daylist • melancholy shoegaze morning 
+	FROM PLAYLIST DESCRIPTION: You listened to championship and old money in the morning. Here's some: melancholy, shoegaze, slowcore, dream pop, twee and rainy day 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/11 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5i7NTKk9RGMHGDtuesLg6p
+
