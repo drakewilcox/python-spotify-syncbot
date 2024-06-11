@@ -8334,3 +8334,12 @@
 	TO PLAYLIST NAME: 24/06/10 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5MD58NSfQIufRFxS2Zaa7x
 
+2024-06-11 02:32:09,662 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:32PM 
+	FROM PLAYLIST NAME: daylist • muscle shoals bluesy monday evening 
+	FROM PLAYLIST DESCRIPTION: You listened to swamp rock and country on Mondays in the evening. Here's some: muscle shoals, bluesy, southern soul, country rock, swamp rock and southern rock 
+	TOTAL SONGS TRANSFERED: 14
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/10 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5MD58NSfQIufRFxS2Zaa7x
+
