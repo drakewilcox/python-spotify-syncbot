@@ -8508,3 +8508,12 @@
 	TO PLAYLIST NAME: 24/06/12 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5ihIBXKQVDsBKxPTSFW75w
 
+2024-06-12 18:21:02,561 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:21AM 
+	FROM PLAYLIST NAME: daylist • wistful sad girl morning 
+	FROM PLAYLIST DESCRIPTION: You listened to championship and old money in the morning. Here's some: wistful, sad girl, tender, melancholy, art pop and ethereal 
+	TOTAL SONGS TRANSFERED: 47
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/12 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5ihIBXKQVDsBKxPTSFW75w
+
