@@ -8571,3 +8571,22 @@
 	TO PLAYLIST NAME: 24/06/13 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0qvKeFjwty14tu9ury73RV
 
+2024-06-13 14:15:39,550 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:15AM 
+	FROM PLAYLIST NAME: daylist • melancholy dream pop morning 
+	FROM PLAYLIST DESCRIPTION: You listened to championship and femme fatale in the morning. Here's some: dream pop, slowcore, beach house, melancholy, ethereal and twee 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/13 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0qvKeFjwty14tu9ury73RV
+
+2024-06-13 14:15:56,428 - INFO - Transfer Performed 
+	LOCAL TIME: 07:15AM 
+	FROM PLAYLIST NAME: Compact Cassette 
+	FROM PLAYLIST DESCRIPTION: A weekly rotation of indie, dreampop and lofi vibes. Updated every Wednesday, save your favorites 💜 
+	TOTAL SONGS TRANSFERED: 61
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Compact Cassette Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/6c6Ra1iI1JjhADV2gnT7p6
+
