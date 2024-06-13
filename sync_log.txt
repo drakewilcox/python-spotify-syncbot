@@ -8562,3 +8562,12 @@
 	TO PLAYLIST NAME: 24/06/13 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0qvKeFjwty14tu9ury73RV
 
+2024-06-13 10:16:03,737 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:16AM 
+	FROM PLAYLIST NAME: daylist • jukebox twee thursday 
+	FROM PLAYLIST DESCRIPTION: You listened to post-punk and no wave on Thursdays. Here's some: jukebox, twee, 90s indie, kindness, jangle and mountain 
+	TOTAL SONGS TRANSFERED: 10
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/13 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0qvKeFjwty14tu9ury73RV
+
