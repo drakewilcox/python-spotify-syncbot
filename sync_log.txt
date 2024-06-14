@@ -8618,3 +8618,12 @@
 	TO PLAYLIST NAME: 24/06/13 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0qvKeFjwty14tu9ury73RV
 
+2024-06-14 01:08:54,738 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 06:08PM 
+	FROM PLAYLIST NAME: daylist • 90s indie twee thursday evening 
+	FROM PLAYLIST DESCRIPTION: You listened to grunge and experimental rock on Thursdays in the evening. Here's some: 90s indie, twee, 00s indie, canon, alternative rock and slowcore 
+	TOTAL SONGS TRANSFERED: 49
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/13 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0qvKeFjwty14tu9ury73RV
+
