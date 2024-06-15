@@ -8737,3 +8737,12 @@
 	TO PLAYLIST NAME: 24/06/14 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6l8z3ju7vXXPHbUsOTrvVG
 
+2024-06-15 10:17:09,281 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:17AM 
+	FROM PLAYLIST NAME: daylist • groovy souldies for this moment 
+	FROM PLAYLIST DESCRIPTION: Here's some: groovy, souldies, ethiopian jazz, retro soul, zamrock and cosmic 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/15 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2DbVDIVqRtYu52x85PlZ5J
+
