@@ -8701,3 +8701,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
 
+2024-06-15 01:08:57,585 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 06:08PM 
+	FROM PLAYLIST NAME: daylist • festival jangle friday night 
+	FROM PLAYLIST DESCRIPTION: You listened to friendly and vocalist on Fridays at night. Here's some: festival, jangle, indie, 2020s, twee and alternative 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/14 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6l8z3ju7vXXPHbUsOTrvVG
+
