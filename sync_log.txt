@@ -8800,3 +8800,12 @@
 	TO PLAYLIST NAME: 24/06/15 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2DbVDIVqRtYu52x85PlZ5J
 
+2024-06-16 06:21:17,046 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:21PM 
+	FROM PLAYLIST NAME: daylist • twee strange saturday night 
+	FROM PLAYLIST DESCRIPTION: You listened to punkish and proto-punk on Saturdays at night. Here's some: twee, strange, post-punk revival, obscure, seclusion and art rock 
+	TOTAL SONGS TRANSFERED: 46
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/15 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2DbVDIVqRtYu52x85PlZ5J
+
