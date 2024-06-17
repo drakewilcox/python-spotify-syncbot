@@ -8909,3 +8909,12 @@
 	TO PLAYLIST NAME: 24/06/17 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5aCOdgRlsXMW6vC6jxdU4K
 
+2024-06-17 16:20:16,508 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:20AM 
+	FROM PLAYLIST NAME: daylist • soulful velvety monday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to slow r&b and earthy on Mondays in the afternoon. Here's some: soulful, velvety, smooth r&b, earthy, sensual and contemporary r&b 
+	TOTAL SONGS TRANSFERED: 39
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/17 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5aCOdgRlsXMW6vC6jxdU4K
+
