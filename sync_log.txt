@@ -8900,3 +8900,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1KHuoPDQnNWPpW9UDtbZxP
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/7tOT1UK2vnqTpWbwmuJs1a
 
+2024-06-17 14:15:36,459 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:15AM 
+	FROM PLAYLIST NAME: daylist • melancholy slowcore morning 
+	FROM PLAYLIST DESCRIPTION: You listened to championship and femme fatale in the morning. Here's some: slowcore, beach house, melancholy, dreamscape, shoegaze and ethereal 
+	TOTAL SONGS TRANSFERED: 15
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/17 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5aCOdgRlsXMW6vC6jxdU4K
+
