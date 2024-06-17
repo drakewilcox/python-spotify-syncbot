@@ -8937,3 +8937,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
 
+2024-06-17 22:14:04,709 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:14PM 
+	FROM PLAYLIST NAME: daylist • indie dream monday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to calm and chaotic on Mondays in the afternoon. Here's some: indie, dream, psychedelic, sunshine, vocalist and hopeful 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/17 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5aCOdgRlsXMW6vC6jxdU4K
+
