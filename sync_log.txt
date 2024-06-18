@@ -8992,3 +8992,12 @@
 	TO PLAYLIST NAME: 24/06/18 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3AJTbOCGdTNHeWjqDC5eQR
 
+2024-06-18 18:21:25,596 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:21AM 
+	FROM PLAYLIST NAME: daylist • 70s rock mellow gold tuesday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to audiophile and jazz rock on Tuesdays in the afternoon. Here's some: 70s rock, mellow gold, classic, 60s-70s, fusion and jazz rock 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/18 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3AJTbOCGdTNHeWjqDC5eQR
+
