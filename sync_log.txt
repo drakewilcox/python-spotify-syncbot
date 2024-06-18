@@ -8983,3 +8983,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
 
+2024-06-18 14:14:47,477 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:14AM 
+	FROM PLAYLIST NAME: daylist • twee chin-stroking early morning 
+	FROM PLAYLIST DESCRIPTION: You listened to championship and art deco in the early morning. Here's some: twee, chin-stroking, strange, whimsigothic, pixie and shoegaze 
+	TOTAL SONGS TRANSFERED: 47
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/18 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3AJTbOCGdTNHeWjqDC5eQR
+
