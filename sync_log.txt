@@ -8964,3 +8964,12 @@
 	TO PLAYLIST NAME: 24/06/17 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5aCOdgRlsXMW6vC6jxdU4K
 
+2024-06-18 10:16:50,547 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:16AM 
+	FROM PLAYLIST NAME: daylist • flannel teen angst tuesday 
+	FROM PLAYLIST DESCRIPTION: You listened to drums and grunge on Tuesdays. Here's some: flannel, teen angst, post-grunge, 90s rock, guitar and permanent wave 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/18 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3AJTbOCGdTNHeWjqDC5eQR
+
