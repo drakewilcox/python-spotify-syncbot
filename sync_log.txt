@@ -9065,3 +9065,12 @@
 	TO PLAYLIST NAME: 24/06/19 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5Z5DXNBHaXA7E0oJREJe3A
 
+2024-06-19 14:14:27,442 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:14AM 
+	FROM PLAYLIST NAME: daylist • melancholy shoegaze early morning 
+	FROM PLAYLIST DESCRIPTION: You listened to art deco and championship in the early morning. Here's some: shoegaze, melancholy, haunting, twee, dream pop and strange 
+	TOTAL SONGS TRANSFERED: 21
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/19 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5Z5DXNBHaXA7E0oJREJe3A
+
