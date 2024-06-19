@@ -9074,3 +9074,12 @@
 	TO PLAYLIST NAME: 24/06/19 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5Z5DXNBHaXA7E0oJREJe3A
 
+2024-06-19 18:20:17,362 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:20AM 
+	FROM PLAYLIST NAME: daylist • twee 90s indie afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to indie and dreamy in the afternoon. Here's some: twee, 90s indie, college rock, 00s indie, chin-stroking and lo-fi indie 
+	TOTAL SONGS TRANSFERED: 38
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/19 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5Z5DXNBHaXA7E0oJREJe3A
+
