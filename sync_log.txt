@@ -9020,3 +9020,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
 
+2024-06-19 02:32:38,314 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:32PM 
+	FROM PLAYLIST NAME: daylist • modern psychedelic freak folk tuesday evening 
+	FROM PLAYLIST DESCRIPTION: You listened to jukebox and modern on Tuesdays in the evening. Here's some: modern psychedelic, freak folk, cosmic, pleasant, psychedelic rock and reverb 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/18 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3AJTbOCGdTNHeWjqDC5eQR
+
