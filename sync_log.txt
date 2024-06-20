@@ -9157,3 +9157,12 @@
 	TO PLAYLIST NAME: 24/06/20 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1dKSIuDBgiNBeeNJAXLTS1
 
+2024-06-20 16:20:22,759 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:20AM 
+	FROM PLAYLIST NAME: daylist • tender ethereal morning 
+	FROM PLAYLIST DESCRIPTION: You listened to dreamy and indie chill in the morning. Here's some: tender, ethereal, dreamy, liminal, floaty and gentle 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/20 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1dKSIuDBgiNBeeNJAXLTS1
+
