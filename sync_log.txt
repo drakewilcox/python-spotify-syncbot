@@ -9267,3 +9267,12 @@
 	TO PLAYLIST NAME: 24/06/21 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3Te1KrDV9aCLvV62MzMpXJ
 
+2024-06-21 20:17:11,490 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:17PM 
+	FROM PLAYLIST NAME: daylist • doom progressive friday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to heavy psych and trippy on Fridays in the afternoon. Here's some: progressive, heavy psych, festival, doom, fuzzy and wizard 
+	TOTAL SONGS TRANSFERED: 49
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/21 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3Te1KrDV9aCLvV62MzMpXJ
+
