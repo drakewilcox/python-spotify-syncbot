@@ -9194,3 +9194,12 @@
 	TO PLAYLIST NAME: 24/06/20 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1dKSIuDBgiNBeeNJAXLTS1
 
+2024-06-21 02:31:25,898 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:31PM 
+	FROM PLAYLIST NAME: daylist • laurel canyon old soul thursday night 
+	FROM PLAYLIST DESCRIPTION: You listened to yacht rock and indie on Thursdays at night. Here's some: laurel canyon, old soul, high fidelity, 60s-70s, hippie and chill rock 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/20 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1dKSIuDBgiNBeeNJAXLTS1
+
