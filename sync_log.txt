@@ -9240,3 +9240,12 @@
 	TO PLAYLIST NAME: 24/06/21 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3Te1KrDV9aCLvV62MzMpXJ
 
+2024-06-21 12:29:26,596 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 05:29AM 
+	FROM PLAYLIST NAME: daylist • african rock far out friday 
+	FROM PLAYLIST DESCRIPTION: You listened to alternative and trippy on Fridays. Here's some: african rock, afro rock, far out, 60s-70s, obscure and progressive 
+	TOTAL SONGS TRANSFERED: 12
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/21 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3Te1KrDV9aCLvV62MzMpXJ
+
