@@ -9285,3 +9285,12 @@
 	TO PLAYLIST NAME: 24/06/21 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3Te1KrDV9aCLvV62MzMpXJ
 
+2024-06-22 02:29:02,523 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:29PM 
+	FROM PLAYLIST NAME: daylist • pleasant laurel canyon friday evening 
+	FROM PLAYLIST DESCRIPTION: You listened to yacht rock and album rock on Fridays in the evening. Here's some: pleasant, laurel canyon, jangle, seclusion, pet and cosmic 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/21 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3Te1KrDV9aCLvV62MzMpXJ
+
