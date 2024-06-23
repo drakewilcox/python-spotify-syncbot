@@ -9420,3 +9420,12 @@
 	TO PLAYLIST NAME: 24/06/23 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0JhrMRUSC7DyBtOnL0rsoT
 
+2024-06-23 16:18:10,229 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:18AM 
+	FROM PLAYLIST NAME: daylist • bittersweet soft indie sunday morning 
+	FROM PLAYLIST DESCRIPTION: You listened to indie and liminal on Sundays in the morning. Here's some: bittersweet, soft indie, journaling, delicate, gentle and yearning 
+	TOTAL SONGS TRANSFERED: 49
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/23 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0JhrMRUSC7DyBtOnL0rsoT
+
