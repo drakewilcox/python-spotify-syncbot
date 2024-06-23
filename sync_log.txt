@@ -9402,3 +9402,12 @@
 	TO PLAYLIST NAME: 24/06/23 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0JhrMRUSC7DyBtOnL0rsoT
 
+2024-06-23 12:28:10,695 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 05:28AM 
+	FROM PLAYLIST NAME: daylist • club classics indie sleaze sunday 
+	FROM PLAYLIST DESCRIPTION: You listened to dreamy and indie on Sundays. Here's some: club classics, indie sleaze, cult classic, summer, strut and electropop 
+	TOTAL SONGS TRANSFERED: 8
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/23 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0JhrMRUSC7DyBtOnL0rsoT
+
