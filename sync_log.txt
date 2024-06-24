@@ -9530,3 +9530,22 @@
 	TO PLAYLIST NAME: 24/06/24 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3zpb2t4ogL9Xt4BHyRH6Nq
 
+2024-06-24 18:20:49,804 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:20AM 
+	FROM PLAYLIST NAME: daylist • souldies smooth soul monday morning 
+	FROM PLAYLIST DESCRIPTION: You listened to velvety and neo soul on Mondays in the morning. Here's some: souldies, smooth soul, ethiopian jazz, modern soul, lowrider and old soul 
+	TOTAL SONGS TRANSFERED: 42
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/24 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3zpb2t4ogL9Xt4BHyRH6Nq
+
+2024-06-24 18:21:19,523 - INFO - Transfer Performed 
+	LOCAL TIME: 11:21AM 
+	FROM PLAYLIST NAME: 2024 - Favorite Tracks (So Far)  
+	FROM PLAYLIST DESCRIPTION:  
+	TOTAL SONGS TRANSFERED: 2
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Compact Cassette Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
+
