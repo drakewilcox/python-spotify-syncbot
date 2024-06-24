@@ -9465,3 +9465,12 @@
 	TO PLAYLIST NAME: 24/06/23 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0JhrMRUSC7DyBtOnL0rsoT
 
+2024-06-24 08:20:08,854 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:20AM 
+	FROM PLAYLIST NAME: daylist • indie sleaze summer monday 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic and indie christian on Mondays. Here's some: indie sleaze, summer, art pop, club classics, cult classic and whimsical 
+	TOTAL SONGS TRANSFERED: 43
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/06/24 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3zpb2t4ogL9Xt4BHyRH6Nq
+
