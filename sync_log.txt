@@ -9521,3 +9521,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
 
+2024-06-24 16:19:09,596 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:19AM 
+	FROM PLAYLIST NAME: daylist • soul soothing smooth r&b monday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to slow r&b and chill r&b on Mondays in the afternoon. Here's some: soulful, smooth r&b, velvety, contemporary r&b, sensual and chill r&b 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/24 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3zpb2t4ogL9Xt4BHyRH6Nq
+
