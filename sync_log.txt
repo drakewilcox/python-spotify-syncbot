@@ -9567,3 +9567,12 @@
 	TO PLAYLIST NAME: 24/06/24 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3zpb2t4ogL9Xt4BHyRH6Nq
 
+2024-06-25 04:18:39,877 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:18PM 
+	FROM PLAYLIST NAME: daylist • country rock 60s-70s monday evening 
+	FROM PLAYLIST DESCRIPTION: You listened to swamp rock and country on Mondays in the evening. Here's some: country rock, swamp rock, 60s-70s, blue-eyed soul, southern soul and outlaw country 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/24 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3zpb2t4ogL9Xt4BHyRH6Nq
+
