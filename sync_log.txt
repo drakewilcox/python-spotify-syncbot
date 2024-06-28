@@ -9858,3 +9858,12 @@
 	TO PLAYLIST NAME: 24/06/28 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0pWnYyiceRdNQqJ5LcO9LZ
 
+2024-06-28 10:17:08,029 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:17AM 
+	FROM PLAYLIST NAME: daylist • garage city friday 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic and indie on Fridays. Here's some: garage, city, festival, jangle, psychedelic and lo-fi 
+	TOTAL SONGS TRANSFERED: 6
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/28 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0pWnYyiceRdNQqJ5LcO9LZ
+
