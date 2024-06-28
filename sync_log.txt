@@ -9849,3 +9849,12 @@
 	TO PLAYLIST NAME: 24/06/27 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5HMPQOXXqO9w9Xb9yBsxvp
 
+2024-06-28 08:19:16,624 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:19AM 
+	FROM PLAYLIST NAME: daylist • garage rochester ny indie friday 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic and trippy on Fridays. Here's some: garage, rochester ny indie, festival, 2010s, psychedelic and alternative 
+	TOTAL SONGS TRANSFERED: 43
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/06/28 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0pWnYyiceRdNQqJ5LcO9LZ
+
