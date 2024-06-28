@@ -9867,3 +9867,12 @@
 	TO PLAYLIST NAME: 24/06/28 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0pWnYyiceRdNQqJ5LcO9LZ
 
+2024-06-28 12:30:21,714 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 05:30AM 
+	FROM PLAYLIST NAME: daylist • garage city friday 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic and experimental hip hop on Fridays. Here's some: garage, city, lo-fi, festival, tennessee experimental and outsider 
+	TOTAL SONGS TRANSFERED: 11
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/28 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0pWnYyiceRdNQqJ5LcO9LZ
+
