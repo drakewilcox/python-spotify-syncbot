@@ -9876,3 +9876,22 @@
 	TO PLAYLIST NAME: 24/06/28 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0pWnYyiceRdNQqJ5LcO9LZ
 
+2024-06-28 14:14:25,242 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:14AM 
+	FROM PLAYLIST NAME: daylist • garage city friday 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic and experimental hip hop on Fridays. Here's some: garage, city, lo-fi, festival, tennessee experimental and outsider 
+	TOTAL SONGS TRANSFERED: 6
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/28 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0pWnYyiceRdNQqJ5LcO9LZ
+
+2024-06-28 14:14:33,396 - INFO - Transfer Performed 
+	LOCAL TIME: 07:14AM 
+	FROM PLAYLIST NAME: POLLEN 
+	FROM PLAYLIST DESCRIPTION: Genre-less. Quality first always. Cover: James Blake & Lil Yachty 
+	TOTAL SONGS TRANSFERED: 5
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Pollen Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
+
