@@ -9922,3 +9922,12 @@
 	TO PLAYLIST NAME: 24/06/28 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0pWnYyiceRdNQqJ5LcO9LZ
 
+2024-06-29 02:30:55,319 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:30PM 
+	FROM PLAYLIST NAME: daylist • tender twee friday night 
+	FROM PLAYLIST DESCRIPTION: You listened to uk pop and club classics on Fridays at night. Here's some: twee, tender, pleasant, warm, gentle and laurel canyon 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/28 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0pWnYyiceRdNQqJ5LcO9LZ
+
