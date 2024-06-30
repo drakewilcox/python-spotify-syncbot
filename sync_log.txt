@@ -10030,3 +10030,12 @@
 	TO PLAYLIST NAME: 24/06/30 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3gjquSB1vn7tC5ywFWZln9
 
+2024-06-30 14:13:55,950 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:13AM 
+	FROM PLAYLIST NAME: daylist • baltimore indie dreamo morning 
+	FROM PLAYLIST DESCRIPTION: You listened to art deco and experimental rock in the morning. Here's some: baltimore indie, dreamo, slowcore, chillwave, beach house and melancholy 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/06/30 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3gjquSB1vn7tC5ywFWZln9
+
