@@ -10084,3 +10084,12 @@
 	TO PLAYLIST NAME: 24/06/30 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3gjquSB1vn7tC5ywFWZln9
 
+2024-07-01 08:20:50,936 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:20AM 
+	FROM PLAYLIST NAME: daylist • garage bar sunday 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic and songwriter on Sundays. Here's some: garage, bar, mixtape, festival, surfing and modern 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/07/01 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/4nnrlraV285hC2YoM077XR
+
