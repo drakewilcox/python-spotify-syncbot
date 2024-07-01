@@ -10112,3 +10112,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1KHuoPDQnNWPpW9UDtbZxP
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/7tOT1UK2vnqTpWbwmuJs1a
 
+2024-07-01 16:19:19,992 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:19AM 
+	FROM PLAYLIST NAME: daylist • soul soothing velvety monday morning 
+	FROM PLAYLIST DESCRIPTION: You listened to soul soothing and slow r&b on Mondays in the morning. Here's some: soul soothing, velvety, smooth soul, neo soul, jazzy and modern soul 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/01 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/4nnrlraV285hC2YoM077XR
+
