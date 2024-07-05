@@ -10402,3 +10402,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
 
+2024-07-05 08:19:29,071 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:19AM 
+	FROM PLAYLIST NAME: daylist • 60s-70s philly soul thursday 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic and trippy on Thursdays. Here's some: 60s-70s, philly soul, 70s pop, mellow gold, laurel canyon and blue-eyed soul 
+	TOTAL SONGS TRANSFERED: 47
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/07/05 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0gLFtrXYl2l37iMSAj2qLS
+
