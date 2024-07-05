@@ -10457,3 +10457,12 @@
 	TO PLAYLIST NAME: 24/07/05 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0gLFtrXYl2l37iMSAj2qLS
 
+2024-07-05 22:16:12,603 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:16PM 
+	FROM PLAYLIST NAME: daylist • swedish psychedelic rock modern friday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to heavy psych and canadian psychedelic rock on Fridays in the afternoon. Here's some: swedish psychedelic rock, psychedelic doom, modern, live music, progressive and fuzzy 
+	TOTAL SONGS TRANSFERED: 49
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/05 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0gLFtrXYl2l37iMSAj2qLS
+
