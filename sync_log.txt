@@ -10430,3 +10430,12 @@
 	TO PLAYLIST NAME: 24/07/05 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0gLFtrXYl2l37iMSAj2qLS
 
+2024-07-05 14:15:11,615 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:15AM 
+	FROM PLAYLIST NAME: daylist • 60s-70s mellow gold friday 
+	FROM PLAYLIST DESCRIPTION: You listened to yacht rock and sample on Fridays. Here's some: 60s-70s, mellow gold, philly soul, 70s pop, blue-eyed soul and laurel canyon 
+	TOTAL SONGS TRANSFERED: 3
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/05 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0gLFtrXYl2l37iMSAj2qLS
+
