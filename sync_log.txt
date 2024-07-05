@@ -10383,3 +10383,22 @@
 	TO PLAYLIST NAME: 24/07/04 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0lPGnbAyfgatiqWzUopWga
 
+2024-07-05 04:20:28,557 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:20PM 
+	FROM PLAYLIST NAME: daylist • chill rock psychedelic indie thursday late night 
+	FROM PLAYLIST DESCRIPTION: You listened to australian psych and australian indie on Thursdays in the late night. Here's some: psychedelic indie, chill rock, trippy rock, soft indie, hipster and psychedelic pop 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/04 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0lPGnbAyfgatiqWzUopWga
+
+2024-07-05 04:20:35,657 - INFO - Transfer Performed 
+	LOCAL TIME: 09:20PM 
+	FROM PLAYLIST NAME: POLLEN 
+	FROM PLAYLIST DESCRIPTION: Genre-less. Quality first always. Cover: James Blake & Lil Yachty 
+	TOTAL SONGS TRANSFERED: 9
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Pollen Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
+
