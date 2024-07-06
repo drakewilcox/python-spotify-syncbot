@@ -10520,3 +10520,12 @@
 	TO PLAYLIST NAME: 24/07/06 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5aDjNlZPPuhZVfzLAYrcju
 
+2024-07-06 20:15:54,161 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:15PM 
+	FROM PLAYLIST NAME: daylist • garage psychedelic saturday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to solo artist and hippie on Saturdays in the afternoon. Here's some: garage, psychedelic, surfing, modern, jangle and indie 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/06 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5aDjNlZPPuhZVfzLAYrcju
+
