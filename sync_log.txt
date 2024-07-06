@@ -10484,3 +10484,12 @@
 	TO PLAYLIST NAME: 24/07/05 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0gLFtrXYl2l37iMSAj2qLS
 
+2024-07-06 08:20:03,350 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:20AM 
+	FROM PLAYLIST NAME: daylist • 60s-70s blue-eyed soul for this moment 
+	FROM PLAYLIST DESCRIPTION: Here's some: 60s-70s, blue-eyed soul, adult contemporary, soft rock, adult rock and album rock 
+	TOTAL SONGS TRANSFERED: 28
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/07/06 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5aDjNlZPPuhZVfzLAYrcju
+
