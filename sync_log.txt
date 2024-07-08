@@ -10628,3 +10628,12 @@
 	TO PLAYLIST NAME: 24/07/07 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2lHnaJmfxf0BRO4efPVu2W
 
+2024-07-08 08:20:33,284 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:20AM 
+	FROM PLAYLIST NAME: daylist • warm fuzzy feeling obscure sunday 
+	FROM PLAYLIST DESCRIPTION: You listened to psychedelic and indie on Sundays. Here's some: obscure, laurel canyon, far out, warm fuzzy feeling, cosmic and 60s-70s 
+	TOTAL SONGS TRANSFERED: 37
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/07/08 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/41SS1ILbBZ160585z1F3Pp
+
