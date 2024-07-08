@@ -10674,3 +10674,12 @@
 	TO PLAYLIST NAME: 24/07/08 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/41SS1ILbBZ160585z1F3Pp
 
+2024-07-08 22:15:35,530 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:15PM 
+	FROM PLAYLIST NAME: daylist • indie power pop monday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to heartland rock and sorcerer on Mondays in the afternoon. Here's some: indie, power pop, autumn, driving, psychedelic and lo-fi 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/08 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/41SS1ILbBZ160585z1F3Pp
+
