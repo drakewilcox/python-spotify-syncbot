@@ -10665,3 +10665,12 @@
 	TO PLAYLIST NAME: 24/07/08 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/41SS1ILbBZ160585z1F3Pp
 
+2024-07-08 18:21:21,736 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:21AM 
+	FROM PLAYLIST NAME: daylist • ethiopian jazz retro soul monday morning 
+	FROM PLAYLIST DESCRIPTION: You listened to sensual and soul soothing on Mondays in the morning. Here's some: ethiopian jazz, retro soul, modern soul, souldies, lounging and lowrider 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/08 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/41SS1ILbBZ160585z1F3Pp
+
