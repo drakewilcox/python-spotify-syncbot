@@ -10683,3 +10683,12 @@
 	TO PLAYLIST NAME: 24/07/08 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/41SS1ILbBZ160585z1F3Pp
 
+2024-07-09 02:33:50,527 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:33PM 
+	FROM PLAYLIST NAME: daylist • 90s indie college rock monday night 
+	FROM PLAYLIST DESCRIPTION: You listened to grunge and r&b on Mondays at night. Here's some: 90s indie, college rock, flannel, alternative rock, dirty rock and 90s alternative 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/08 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/41SS1ILbBZ160585z1F3Pp
+
