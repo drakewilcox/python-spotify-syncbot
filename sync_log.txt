@@ -10701,3 +10701,12 @@
 	TO PLAYLIST NAME: 24/07/08 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/41SS1ILbBZ160585z1F3Pp
 
+2024-07-09 08:18:51,722 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:18AM 
+	FROM PLAYLIST NAME: daylist • laurel canyon funk rock monday 
+	FROM PLAYLIST DESCRIPTION: You listened to r&b and audiophile on Mondays. Here's some: laurel canyon, funk rock, 20th century, 60s-70s, early 70s and 70s r&b 
+	TOTAL SONGS TRANSFERED: 49
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/07/09 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0362Ji2IvCIObYHSTgjkz8
+
