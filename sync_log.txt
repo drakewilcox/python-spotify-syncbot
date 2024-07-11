@@ -10901,3 +10901,22 @@
 	TO PLAYLIST NAME: 24/07/11 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/4jMqk6jRyNljBs3QQv2BC6
 
+2024-07-11 16:19:21,638 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:19AM 
+	FROM PLAYLIST NAME: daylist • quiet twee morning 
+	FROM PLAYLIST DESCRIPTION: You listened to indie and dreamy in the morning. Here's some: quiet, twee, slowcore, autumn, rainy day and post-rock 
+	TOTAL SONGS TRANSFERED: 49
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/11 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/4jMqk6jRyNljBs3QQv2BC6
+
+2024-07-11 16:19:40,869 - INFO - Transfer Performed 
+	LOCAL TIME: 09:19AM 
+	FROM PLAYLIST NAME: Compact Cassette 
+	FROM PLAYLIST DESCRIPTION: A weekly rotation of indie, dreampop and lofi vibes. Updated every Wednesday, save your favorites 💜 
+	TOTAL SONGS TRANSFERED: 5
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Compact Cassette Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/6c6Ra1iI1JjhADV2gnT7p6
+
