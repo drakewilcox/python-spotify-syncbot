@@ -10873,3 +10873,22 @@
 	TO PLAYLIST NAME: 24/07/11 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/4jMqk6jRyNljBs3QQv2BC6
 
+2024-07-11 12:31:04,375 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 05:31AM 
+	FROM PLAYLIST NAME: daylist • motorik art punk thursday 
+	FROM PLAYLIST DESCRIPTION: You listened to modern rock and garage rock on Thursdays. Here's some: motorik, art punk, no wave, post-punk, dance-punk and festival 
+	TOTAL SONGS TRANSFERED: 33
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/11 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/4jMqk6jRyNljBs3QQv2BC6
+
+2024-07-11 12:31:23,491 - INFO - Transfer Performed 
+	LOCAL TIME: 05:31AM 
+	FROM PLAYLIST NAME: Compact Cassette 
+	FROM PLAYLIST DESCRIPTION: A weekly rotation of indie, dreampop and lofi vibes. Updated every Wednesday, save your favorites 💜 
+	TOTAL SONGS TRANSFERED: 44
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Compact Cassette Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/6c6Ra1iI1JjhADV2gnT7p6
+
