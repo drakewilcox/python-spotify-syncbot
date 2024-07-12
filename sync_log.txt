@@ -11002,3 +11002,12 @@
 	TO PLAYLIST NAME: 24/07/12 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/10A1OYcX5V1AhaDI8MqgQT
 
+2024-07-12 22:14:27,184 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:14PM 
+	FROM PLAYLIST NAME: daylist • heavy psych fuzzy friday evening 
+	FROM PLAYLIST DESCRIPTION: You listened to heavy psych and canadian psychedelic rock on Fridays in the evening. Here's some: heavy psych, fuzzy, wizard, garage, motorik and stoner rock 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/12 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/10A1OYcX5V1AhaDI8MqgQT
+
