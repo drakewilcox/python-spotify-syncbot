@@ -10947,3 +10947,22 @@
 	TO PLAYLIST NAME: 24/07/11 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/4jMqk6jRyNljBs3QQv2BC6
 
+2024-07-12 04:18:14,685 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:18PM 
+	FROM PLAYLIST NAME: daylist • laurel canyon 70s rock thursday late night 
+	FROM PLAYLIST DESCRIPTION: You listened to yacht rock and soft rock on Thursdays in the late night. Here's some: laurel canyon, 70s rock, 60s-70s, old soul, mellow gold and 70s pop 
+	TOTAL SONGS TRANSFERED: 27
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/11 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/4jMqk6jRyNljBs3QQv2BC6
+
+2024-07-12 04:18:22,311 - INFO - Transfer Performed 
+	LOCAL TIME: 09:18PM 
+	FROM PLAYLIST NAME: POLLEN 
+	FROM PLAYLIST DESCRIPTION: Genre-less. Quality first always. Cover: Moses Sumney 
+	TOTAL SONGS TRANSFERED: 13
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Pollen Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
+
