@@ -10938,3 +10938,12 @@
 	TO PLAYLIST NAME: 24/07/11 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/4jMqk6jRyNljBs3QQv2BC6
 
+2024-07-12 02:32:56,209 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:32PM 
+	FROM PLAYLIST NAME: daylist • laurel canyon 60s-70s thursday night 
+	FROM PLAYLIST DESCRIPTION: You listened to yacht rock and soft rock on Thursdays at night. Here's some: laurel canyon, 60s-70s, early 70s, classic rock, hippie and high fidelity 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/11 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/4jMqk6jRyNljBs3QQv2BC6
+
