@@ -11550,3 +11550,12 @@
 	TO PLAYLIST NAME: 24/07/19 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6v9opRllAqpoBLWUUeCxf6
 
+2024-07-19 14:16:02,510 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:16AM 
+	FROM PLAYLIST NAME: daylist • motorik twee friday 
+	FROM PLAYLIST DESCRIPTION: You listened to yacht rock and psychedelic on Fridays. Here's some: motorik, twee, post-rock, avant-garde, krautrock and strange 
+	TOTAL SONGS TRANSFERED: 4
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/19 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6v9opRllAqpoBLWUUeCxf6
+
