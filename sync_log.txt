@@ -11568,3 +11568,12 @@
 	TO PLAYLIST NAME: 24/07/19 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6v9opRllAqpoBLWUUeCxf6
 
+2024-07-19 20:18:01,965 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:18PM 
+	FROM PLAYLIST NAME: daylist • far out heavy psych friday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to heavy psych and modern rock on Fridays in the afternoon. Here's some: far out, heavy psych, progressive, garage psych, krautrock and fuzzy 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/19 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6v9opRllAqpoBLWUUeCxf6
+
