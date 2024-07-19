@@ -11504,3 +11504,12 @@
 	TO PLAYLIST NAME: 24/07/18 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/4pcGzhm0o3w2iPeF1l5pfF
 
+2024-07-19 02:34:17,402 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:34PM 
+	FROM PLAYLIST NAME: daylist • laurel canyon 60s-70s thursday night 
+	FROM PLAYLIST DESCRIPTION: You listened to australian psych and yacht rock on Thursdays at night. Here's some: laurel canyon, 60s-70s, hippie, 20th century, chill rock and far out 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/18 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/4pcGzhm0o3w2iPeF1l5pfF
+
