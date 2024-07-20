@@ -11631,3 +11631,12 @@
 	TO PLAYLIST NAME: 24/07/20 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2rse9Tdu4Bh6AOBwVeJ89h
 
+2024-07-20 16:19:33,315 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:19AM 
+	FROM PLAYLIST NAME: daylist • angst twee saturday morning 
+	FROM PLAYLIST DESCRIPTION: You listened to tropicalia and indie garage rock on Saturdays in the morning. Here's some: twee, angst, beach goth, hipster, indie pop rock and indie surf 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/20 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2rse9Tdu4Bh6AOBwVeJ89h
+
