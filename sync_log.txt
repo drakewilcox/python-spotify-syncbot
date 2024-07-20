@@ -11649,3 +11649,12 @@
 	TO PLAYLIST NAME: 24/07/20 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2rse9Tdu4Bh6AOBwVeJ89h
 
+2024-07-20 20:15:59,498 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:15PM 
+	FROM PLAYLIST NAME: daylist • shoegaze psychedelic saturday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to soloist and glamorous on Saturdays in the afternoon. Here's some: shoegaze, psychedelic, garage rock, jangle, garage psych and space rock 
+	TOTAL SONGS TRANSFERED: 47
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/20 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2rse9Tdu4Bh6AOBwVeJ89h
+
