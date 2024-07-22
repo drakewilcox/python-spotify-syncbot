@@ -11813,3 +11813,22 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
 
+2024-07-22 18:21:18,511 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:21AM 
+	FROM PLAYLIST NAME: daylist • smooth soul souldies monday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to groovy and sensual on Mondays in the afternoon. Here's some: smooth soul, modern soul, souldies, velvety, retro soul and indie soul 
+	TOTAL SONGS TRANSFERED: 47
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/22 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/4Lbe2lfLjZRAgs2IoSI0QD
+
+2024-07-22 18:21:26,826 - INFO - Transfer Performed 
+	LOCAL TIME: 11:21AM 
+	FROM PLAYLIST NAME: POLLEN 
+	FROM PLAYLIST DESCRIPTION: Genre-less. Quality first always. Cover: Childish Gambino 
+	TOTAL SONGS TRANSFERED: 1
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Pollen Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
+
