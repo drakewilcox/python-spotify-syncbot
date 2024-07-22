@@ -11832,3 +11832,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
 
+2024-07-22 20:16:56,525 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:16PM 
+	FROM PLAYLIST NAME: daylist • modern cool monday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to power pop and 80s punk on Mondays in the afternoon. Here's some: modern, cool, indie, psychedelic, autumn and sound 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/22 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/4Lbe2lfLjZRAgs2IoSI0QD
+
