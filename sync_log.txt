@@ -11850,3 +11850,12 @@
 	TO PLAYLIST NAME: 24/07/22 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/4Lbe2lfLjZRAgs2IoSI0QD
 
+2024-07-23 02:33:59,698 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 07:33PM 
+	FROM PLAYLIST NAME: daylist • 90s indie chin-stroking monday night 
+	FROM PLAYLIST DESCRIPTION: You listened to grunge and soul soothing on Mondays at night. Here's some: 90s indie, chin-stroking, flannel, lilith, college rock and alternative rock 
+	TOTAL SONGS TRANSFERED: 39
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/22 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/4Lbe2lfLjZRAgs2IoSI0QD
+
