@@ -11905,3 +11905,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
 
+2024-07-23 18:21:26,789 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:21AM 
+	FROM PLAYLIST NAME: daylist • afropop afrobeat tuesday morning 
+	FROM PLAYLIST DESCRIPTION: You listened to highlife and rare groove on Tuesdays in the morning. Here's some: afropop, afrobeat, highlife, afrofunk, african jazz and world 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/23 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1vAq7Au1fUn9aT0xK5t2XP
+
