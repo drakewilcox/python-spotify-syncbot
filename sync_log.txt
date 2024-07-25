@@ -12041,3 +12041,22 @@
 	TO PLAYLIST NAME: 24/07/24 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/19ohqL6ZEPf72to9E3BcXt
 
+2024-07-25 06:23:08,576 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:23PM 
+	FROM PLAYLIST NAME: daylist • ethiopian jazz souldies night 
+	FROM PLAYLIST DESCRIPTION: You listened to tropicalia and vlog at night. Here's some: ethiopian jazz, souldies, rare groove, cooking, sample and velvety 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/24 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/19ohqL6ZEPf72to9E3BcXt
+
+2024-07-25 06:23:26,271 - INFO - Transfer Performed 
+	LOCAL TIME: 11:23PM 
+	FROM PLAYLIST NAME: Compact Cassette 
+	FROM PLAYLIST DESCRIPTION: A weekly rotation of indie, dreampop and lofi vibes. Updated every Wednesday, save your favorites 💜 
+	TOTAL SONGS TRANSFERED: 42
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Compact Cassette Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/6c6Ra1iI1JjhADV2gnT7p6
+
