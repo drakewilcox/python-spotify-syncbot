@@ -12241,3 +12241,12 @@
 	TO PLAYLIST NAME: 24/07/27 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0QRXGxiD3fmTbNlUxheaHk
 
+2024-07-27 18:21:08,701 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:21AM 
+	FROM PLAYLIST NAME: daylist • glamorous post-punk revival saturday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to rock-ish and glamorous on Saturdays in the afternoon. Here's some: glamorous, post-punk revival, english rock, mid 2000s, 00s indie and indie sleaze 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/27 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0QRXGxiD3fmTbNlUxheaHk
+
