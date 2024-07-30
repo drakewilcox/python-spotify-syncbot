@@ -12467,3 +12467,12 @@
 	TO PLAYLIST NAME: 24/07/30 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3rtSVEYqzqgty36VFa1ZK1
 
+2024-07-30 10:18:09,273 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:18AM 
+	FROM PLAYLIST NAME: daylist • post-rock midwest emo monday 
+	FROM PLAYLIST DESCRIPTION: You listened to smooth and horns on Mondays. Here's some: post-rock, midwest emo, nu-gaze, slowcore, shoegaze and horse 
+	TOTAL SONGS TRANSFERED: 5
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/30 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3rtSVEYqzqgty36VFa1ZK1
+
