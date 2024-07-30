@@ -12503,3 +12503,22 @@
 	TO PLAYLIST NAME: 24/07/30 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/3rtSVEYqzqgty36VFa1ZK1
 
+2024-07-30 22:13:35,556 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 03:13PM 
+	FROM PLAYLIST NAME: daylist 
+	FROM PLAYLIST DESCRIPTION: Your day in a playlist. 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/30 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3rtSVEYqzqgty36VFa1ZK1
+
+2024-07-30 22:13:44,145 - INFO - Transfer Performed 
+	LOCAL TIME: 03:13PM 
+	FROM PLAYLIST NAME: POLLEN 
+	FROM PLAYLIST DESCRIPTION: Genre-less. Quality first always. Cover: Childish Gambino 
+	TOTAL SONGS TRANSFERED: 1
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Pollen Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
+
