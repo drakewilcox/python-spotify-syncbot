@@ -12650,3 +12650,22 @@
 	TO PLAYLIST NAME: 24/07/31 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2TDa76pHHSShoxVDcLCk2r
 
+2024-08-01 06:22:55,232 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:22PM 
+	FROM PLAYLIST NAME: daylist • souldies retro soul late night 
+	FROM PLAYLIST DESCRIPTION: You listened to tropicalia and beach music in the late night. Here's some: souldies, retro soul, ethiopian jazz, chill instrumental, rare groove and funky soul 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/07/31 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2TDa76pHHSShoxVDcLCk2r
+
+2024-08-01 06:23:12,811 - INFO - Transfer Performed 
+	LOCAL TIME: 11:23PM 
+	FROM PLAYLIST NAME: Compact Cassette 
+	FROM PLAYLIST DESCRIPTION: A weekly rotation of indie, dreampop and lofi vibes. Updated every Wednesday, save your favorites 💜 
+	TOTAL SONGS TRANSFERED: 57
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Compact Cassette Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/6c6Ra1iI1JjhADV2gnT7p6
+
