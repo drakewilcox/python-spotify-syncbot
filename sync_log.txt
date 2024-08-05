@@ -12976,3 +12976,12 @@
 	TO PLAYLIST NAME: 24/08/04 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/72TXdsk8uMM5ji3tv3dSU4
 
+2024-08-05 08:21:04,630 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:21AM 
+	FROM PLAYLIST NAME: daylist • soul soothing smooth sunday 
+	FROM PLAYLIST DESCRIPTION: You listened to slowcore and shoegaze on Sundays. Here's some: soul soothing, smooth, chill, neo soul, velvety and laid back 
+	TOTAL SONGS TRANSFERED: 25
+	NEW ARCHIVE CREATED: True
+	TO PLAYLIST NAME: 24/08/05 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/3gxgU4Po5eB5fmkuoxb0uq
+
