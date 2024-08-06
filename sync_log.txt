@@ -13085,3 +13085,12 @@
 	TO PLAYLIST NAME: 24/08/06 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0HVDpUKrpbbOf4cKF7FOp5
 
+2024-08-06 16:20:08,538 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 09:20AM 
+	FROM PLAYLIST NAME: daylist • funk afropop tuesday morning 
+	FROM PLAYLIST DESCRIPTION: You listened to highlife and rare groove on Tuesdays in the morning. Here's some: afropop, afrobeat, funk, african jazz, global and world 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/08/06 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0HVDpUKrpbbOf4cKF7FOp5
+
