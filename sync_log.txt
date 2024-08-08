@@ -13211,3 +13211,22 @@
 	TO PLAYLIST NAME: 24/08/07 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/00zTg8qlUoQTKnYJclXKIq
 
+2024-08-08 06:23:48,630 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:23PM 
+	FROM PLAYLIST NAME: daylist • classic soul motown night 
+	FROM PLAYLIST DESCRIPTION: You listened to classic and timeless at night. Here's some: classic soul, 70s soul, funky soul, motown, rare groove and 70s r&b 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/08/07 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/00zTg8qlUoQTKnYJclXKIq
+
+2024-08-08 06:24:07,914 - INFO - Transfer Performed 
+	LOCAL TIME: 11:24PM 
+	FROM PLAYLIST NAME: Compact Cassette 
+	FROM PLAYLIST DESCRIPTION: A weekly rotation of indie, dreampop and lofi vibes. Updated every Wednesday, save your favorites 💜 
+	TOTAL SONGS TRANSFERED: 71
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Compact Cassette Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/6c6Ra1iI1JjhADV2gnT7p6
+
