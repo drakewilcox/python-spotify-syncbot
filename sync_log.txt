@@ -13357,3 +13357,12 @@
 	TO PLAYLIST NAME: 24/08/09 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5VQ3brt0Gv9BSRKKAiOAkl
 
+2024-08-09 18:22:00,562 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:22AM 
+	FROM PLAYLIST NAME: daylist • laurel canyon early 70s friday morning 
+	FROM PLAYLIST DESCRIPTION: You listened to 70s pop and songwriting on Fridays in the morning. Here's some: laurel canyon, early 70s, 60s-70s, 20th century, mellow gold and pleasant 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/08/09 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5VQ3brt0Gv9BSRKKAiOAkl
+
