@@ -13366,3 +13366,12 @@
 	TO PLAYLIST NAME: 24/08/09 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5VQ3brt0Gv9BSRKKAiOAkl
 
+2024-08-09 20:17:42,664 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 01:17PM 
+	FROM PLAYLIST NAME: daylist • far out motorik friday afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to heavy psych and crunchy on Fridays in the afternoon. Here's some: far out, motorik, krautrock, progressive, surfing and space rock 
+	TOTAL SONGS TRANSFERED: 47
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/08/09 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5VQ3brt0Gv9BSRKKAiOAkl
+
