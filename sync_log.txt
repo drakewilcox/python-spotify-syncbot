@@ -13312,3 +13312,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
 
+2024-08-09 06:24:03,239 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:24PM 
+	FROM PLAYLIST NAME: daylist • mellow gold 70s night 
+	FROM PLAYLIST DESCRIPTION: You listened to southern rock and 70s rock at night. Here's some: mellow gold, 70s, motown, traditional funk, lowrider and timeless 
+	TOTAL SONGS TRANSFERED: 34
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/08/08 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/10Edx3EcBxR9qS4yg3QmOf
+
