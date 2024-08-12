@@ -13546,3 +13546,12 @@
 	TO PLAYLIST NAME: 24/08/11 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2Zhn2P0kRyH6B4wOOnAh2c
 
+2024-08-12 06:23:52,487 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 11:23PM 
+	FROM PLAYLIST NAME: daylist • classic soul 70s r&b night 
+	FROM PLAYLIST DESCRIPTION: You listened to 70s rock and 60s-70s at night. Here's some: classic soul, 70s soul, funky soul, old school soul, 70s r&b and rare groove 
+	TOTAL SONGS TRANSFERED: 49
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/08/11 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2Zhn2P0kRyH6B4wOOnAh2c
+
