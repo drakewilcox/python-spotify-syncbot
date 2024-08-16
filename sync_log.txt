@@ -13602,3 +13602,13 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/6c6Ra1iI1JjhADV2gnT7p6
 
+2024-08-16 04:19:06,411 - INFO - Transfer Performed 
+	LOCAL TIME: 09:19PM 
+	FROM PLAYLIST NAME: POLLEN 
+	FROM PLAYLIST DESCRIPTION: Genre-less. Quality first always. Cover: Jean Dawson 
+	TOTAL SONGS TRANSFERED: 4
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Pollen Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
+
