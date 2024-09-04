@@ -13732,3 +13732,13 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1KHuoPDQnNWPpW9UDtbZxP
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/7tOT1UK2vnqTpWbwmuJs1a
 
+2024-09-04 14:15:49,446 - INFO - Transfer Performed 
+	LOCAL TIME: 07:15AM 
+	FROM PLAYLIST NAME: POLLEN 
+	FROM PLAYLIST DESCRIPTION: Genre-less. Quality first always. Cover: Jamie xx 
+	TOTAL SONGS TRANSFERED: 1
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Pollen Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
+
