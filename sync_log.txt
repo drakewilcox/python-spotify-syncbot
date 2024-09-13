@@ -13842,3 +13842,13 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/6WEshQCCEtwL46n7aX8KzA
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
 
+2024-09-13 16:20:53,365 - INFO - Transfer Performed 
+	LOCAL TIME: 09:20AM 
+	FROM PLAYLIST NAME: 2024 - Favorite Tracks (So Far)  
+	FROM PLAYLIST DESCRIPTION:  
+	TOTAL SONGS TRANSFERED: 2
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: Compact Cassette Archive
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1Z4mPhioxV0U1dMqiCxs2r
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/6Db7AUrNyw93xs9fnZKabQ
+
